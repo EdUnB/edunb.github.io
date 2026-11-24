@@ -31,7 +31,7 @@ jobs:
         run: python -B scripts/build.py
       - name: Upload approved website output
         if: ${{ vars.PAGES_DEPLOY_ENABLED == 'true' && github.ref == 'refs/heads/main' && github.event_name != 'pull_request' }}
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v5
         with:
           path: dist/
           retention-days: 1
