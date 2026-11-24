@@ -1,0 +1,33 @@
+# Files generated from source; never manually edit these
+/dist/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# NEVER push the raw Lattes CV or confidential unpublished collaboration data
+/private/
+/local-private/
+*.xml
+*.zip
+*.rar
+*.bak
+*.tmp
+.env
+.env.*
+
+# Local environments, reports and private review artifacts
+.venv/
+venv/
+.cache/
+.local/
+playwright-report/
+test-results/
+coverage/
+*.pem
+*.key
+*.p12
+*.pfx

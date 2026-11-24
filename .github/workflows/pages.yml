@@ -1,0 +1,53 @@
+name: Validate, build and publish academic website
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: github-pages
+  cancel-in-progress: false
+
+jobs:
+  quality:
+    name: Validate content and build
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@v7
+        with:
+          python-version: '3.12'
+      - name: Run automated tests
+        run: python -B -m unittest discover -s tests -v
+      - name: Build website
+        run: python -B scripts/build.py
+      - name: Upload approved website output
+        if: ${{ vars.PAGES_DEPLOY_ENABLED == 'true' && github.ref == 'refs/heads/main' && github.event_name != 'pull_request' }}
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist/
+          retention-days: 1
+
+  deploy:
+    name: Publish to GitHub Pages
+    if: ${{ vars.PAGES_DEPLOY_ENABLED == 'true' && github.ref == 'refs/heads/main' && github.event_name != 'pull_request' }}
+    needs: quality
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/configure-pages@v5
+      - id: deployment
+        uses: actions/deploy-pages@v4

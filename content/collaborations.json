@@ -1,0 +1,1659 @@
+[
+  {
+    "id": "br-lpf",
+    "public": true,
+    "country": "BRA",
+    "city": "Brasília",
+    "lat": -15.78,
+    "lon": -47.93,
+    "institution": "Laboratório de Produtos Florestais (LPF / Serviço Florestal Brasileiro)",
+    "institution_en": "Forest Products Laboratory (LPF / Brazilian Forest Service)",
+    "relation_en": "Research interactions on forest biomass, residues and bioenergy.",
+    "relation_pt": "Interações de pesquisa em biomassa florestal, resíduos e bioenergia.",
+    "scope": "research",
+    "people": [],
+    "status": "documented",
+    "website": "https://www.gov.br/florestal/pt-br",
+    "relation_fr": "Interactions de recherche sur la biomasse forestière, les résidus et la bioénergie.",
+    "relation_zh": "围绕森林生物质、剩余物与生物能源开展的科研交流。",
+    "institution_fr": "Laboratoire des produits forestiers (LPF / Service forestier brésilien)",
+    "institution_zh": "林产品实验室（LPF / 巴西林业局）"
+  },
+  {
+    "id": "br-embrapa",
+    "public": true,
+    "country": "BRA",
+    "city": "Brasília",
+    "lat": -15.73,
+    "lon": -47.9,
+    "institution": "Embrapa",
+    "institution_en": "Brazilian Agricultural Research Corporation (Embrapa)",
+    "relation_en": "Institutional partner named for the LEA PODA research project (2019–2023).",
+    "relation_pt": "Parceira institucional indicada no projeto de pesquisa PODA do LEA (2019–2023).",
+    "scope": "institutional",
+    "institutional_owner": "LEA",
+    "period": {
+      "start": 2019,
+      "end": 2023
+    },
+    "people": [],
+    "status": "historical",
+    "website": "https://www.embrapa.br/",
+    "relation_fr": "Partenaire institutionnel mentionné dans le projet de recherche PODA du LEA (2019–2023).",
+    "relation_zh": "LEA 的 PODA 研究项目（2019—2023 年）列明的机构合作伙伴。",
+    "institution_fr": "Entreprise brésilienne de recherche agronomique (Embrapa)",
+    "institution_zh": "巴西农业研究公司（Embrapa）"
+  },
+  {
+    "id": "fr-lorraine",
+    "public": true,
+    "country": "FRA",
+    "city": "Nancy",
+    "lat": 48.69,
+    "lon": 6.18,
+    "institution": "Université de Lorraine",
+    "institution_en": "Université de Lorraine",
+    "relation_en": "Dual doctoral degree, academic supervision and international scientific training (historical connection).",
+    "relation_pt": "Duplo doutorado, orientação acadêmica e formação científica internacional (vínculo histórico).",
+    "scope": "academic",
+    "people": [
+      {
+        "name": "Anélie Pétrissans",
+        "role_en": "Doctoral supervisor (historical)",
+        "role_pt": "Orientadora de doutorado (histórico)",
+        "role_fr": "Directrice de thèse (historique)",
+        "role_zh": "博士导师（历史）"
+      },
+      {
+        "name": "Patrick Rousset",
+        "role_en": "Doctoral co-supervisor (historical)",
+        "role_pt": "Coorientador de doutorado (histórico)",
+        "role_fr": "Codirecteur de thèse (historique)",
+        "role_zh": "博士联合导师（历史）"
+      }
+    ],
+    "status": "historical",
+    "website": "https://www.univ-lorraine.fr/",
+    "relation_fr": "Double doctorat, encadrement et formation scientifique internationale (lien historique).",
+    "relation_zh": "双博士学位、学术指导与国际科研培养（历史联系）。",
+    "institution_fr": "Université de Lorraine",
+    "institution_zh": "Université de Lorraine"
+  },
+  {
+    "id": "fr-cirad",
+    "public": true,
+    "country": "FRA",
+    "city": "Montpellier",
+    "lat": 43.61,
+    "lon": 3.88,
+    "institution": "CIRAD",
+    "institution_en": "CIRAD",
+    "relation_en": "Institutional partner named for the LEA PODA project (2019–2023).",
+    "relation_pt": "Parceiro institucional indicado no projeto PODA do LEA (2019–2023).",
+    "scope": "institutional",
+    "institutional_owner": "LEA",
+    "period": {
+      "start": 2019,
+      "end": 2023
+    },
+    "people": [],
+    "status": "historical",
+    "website": "https://www.cirad.fr/",
+    "relation_fr": "Partenaire institutionnel mentionné dans le projet PODA du LEA (2019–2023).",
+    "relation_zh": "LEA 的 PODA 项目（2019—2023 年）列明的机构合作伙伴。",
+    "institution_fr": "CIRAD",
+    "institution_zh": "CIRAD"
+  },
+  {
+    "id": "br-unb-coauthors",
+    "public": true,
+    "country": "BRA",
+    "city": "Brasília",
+    "lat": -15.78,
+    "lon": -47.93,
+    "institution": "Universidade de Brasília (UnB)",
+    "institution_en": "Universidade de Brasília (UnB)",
+    "institution_fr": "Universidade de Brasília (UnB)",
+    "institution_zh": "Universidade de Brasília (UnB)",
+    "scope": "research",
+    "status": "documented",
+    "people": [
+      {
+        "name": "Armando Caldeira-Pires",
+        "role_en": "Coauthor · affiliation reported in the cited publication",
+        "role_pt": "Coautor(a) · afiliação informada na publicação citada",
+        "role_fr": "Coauteur·rice · affiliation indiquée dans la publication citée",
+        "role_zh": "共同作者 · 所列论文中的机构归属"
+      },
+      {
+        "name": "Sandra Maria da Luz",
+        "role_en": "Coauthor · affiliation reported in the cited publication",
+        "role_pt": "Coautor(a) · afiliação informada na publicação citada",
+        "role_fr": "Coauteur·rice · affiliation indiquée dans la publication citée",
+        "role_zh": "共同作者 · 所列论文中的机构归属"
+      },
+      {
+        "name": "Giulia Cruz Lamas",
+        "role_en": "Coauthor · affiliation reported in the cited publication",
+        "role_pt": "Coautor(a) · afiliação informada na publicação citada",
+        "role_fr": "Coauteur·rice · affiliation indiquée dans la publication citée",
+        "role_zh": "共同作者 · 所列论文中的机构归属"
+      },
+      {
+        "name": "Pedro Paulo de Oliveira Rodrigues",
+        "role_en": "Coauthor · affiliation reported in the cited publication",
+        "role_pt": "Coautor(a) · afiliação informada na publicação citada",
+        "role_fr": "Coauteur·rice · affiliation indiquée dans la publication citée",
+        "role_zh": "共同作者 · 所列论文中的机构归属"
+      },
+      {
+        "name": "Thiago da Silva Gonzales",
+        "role_en": "Coauthor · affiliation reported in the cited publication",
+        "role_pt": "Coautor(a) · afiliação informada na publicação citada",
+        "role_fr": "Coauteur·rice · affiliation indiquée dans la publication citée",
+        "role_zh": "共同作者 · 所列论文中的机构归属"
+      },
+      {
+        "name": "Simone Monteiro e Silva",
+        "role_en": "Coauthor · affiliation reported in the cited publication",
+        "role_pt": "Coautor(a) · afiliação informada na publicação citada",
+        "role_fr": "Coauteur·rice · affiliation indiquée dans la publication citée",
+        "role_zh": "共同作者 · 所列论文中的机构归属"
+      },
+      {
+        "name": "Mário Benjamim Baptista de Siqueira",
+        "role_en": "Coauthor · affiliation reported in the cited publication",
+        "role_pt": "Coautor(a) · afiliação informada na publicação citada",
+        "role_fr": "Coauteur·rice · affiliation indiquée dans la publication citée",
+        "role_zh": "共同作者 · 所列论文中的机构归属"
+      },
+      {
+        "name": "Taygoara F. de Oliveira",
+        "role_en": "Coauthor · affiliation reported in the cited publication",
+        "role_pt": "Coautor(a) · afiliação informada na publicação citada",
+        "role_fr": "Coauteur·rice · affiliation indiquée dans la publication citée",
+        "role_zh": "共同作者 · 所列论文中的机构归属"
+      },
+      {
+        "name": "Bruce Schuler Frantzen",
+        "role_en": "Coauthor · affiliation reported in the cited publication",
+        "role_pt": "Coautor(a) · afiliação informada na publicação citada",
+        "role_fr": "Coauteur·rice · affiliation indiquée dans la publication citée",
+        "role_zh": "共同作者 · 所列论文中的机构归属"
+      },
+      {
+        "name": "Marcus Vinícius Girão de Morais",
+        "role_en": "Coauthor · affiliation reported in the cited publication",
+        "role_pt": "Coautor(a) · afiliação informada na publicação citada",
+        "role_fr": "Coauteur·rice · affiliation indiquée dans la publication citée",
+        "role_zh": "共同作者 · 所列论文中的机构归属"
+      },
+      {
+        "name": "Marcela C. Rodrigues",
+        "role_en": "Coauthor · affiliation reported in the cited publication",
+        "role_pt": "Coautor(a) · afiliação informada na publicação citada",
+        "role_fr": "Coauteur·rice · affiliation indiquée dans la publication citée",
+        "role_zh": "共同作者 · 所列论文中的机构归属"
+      },
+      {
+        "name": "Antonio C. P. Brasil Junior",
+        "role_en": "Coauthor · affiliation reported in the cited publication",
+        "role_pt": "Coautor(a) · afiliação informada na publicação citada",
+        "role_fr": "Coauteur·rice · affiliation indiquée dans la publication citée",
+        "role_zh": "共同作者 · 所列论文中的机构归属"
+      },
+      {
+        "name": "Mayara Gabi Moreira",
+        "role_en": "Coauthor · affiliation reported in the cited publication",
+        "role_pt": "Coautor(a) · afiliação informada na publicação citada",
+        "role_fr": "Coauteur·rice · affiliation indiquée dans la publication citée",
+        "role_zh": "共同作者 · 所列论文中的机构归属"
+      },
+      {
+        "name": "Thais Barbosa",
+        "role_en": "Coauthor · affiliation reported in the cited publication",
+        "role_pt": "Coautor(a) · afiliação informada na publicação citada",
+        "role_fr": "Coauteur·rice · affiliation indiquée dans la publication citée",
+        "role_zh": "共同作者 · 所列论文中的机构归属"
+      },
+      {
+        "name": "Rafaela Barcelo",
+        "role_en": "Coauthor · affiliation reported in the cited publication",
+        "role_pt": "Coautor(a) · afiliação informada na publicação citada",
+        "role_fr": "Coauteur·rice · affiliation indiquée dans la publication citée",
+        "role_zh": "共同作者 · 所列论文中的机构归属"
+      },
+      {
+        "name": "Grace Ferreira Ghesti",
+        "role_en": "Coauthor · affiliation reported in the cited publication",
+        "role_pt": "Coautor(a) · afiliação informada na publicação citada",
+        "role_fr": "Coauteur·rice · affiliation indiquée dans la publication citée",
+        "role_zh": "共同作者 · 所列论文中的机构归属"
+      },
+      {
+        "name": "Paulo Anselmo Ziani Suarez",
+        "role_en": "Coauthor · affiliation reported in the cited publication",
+        "role_pt": "Coautor(a) · afiliação informada na publicação citada",
+        "role_fr": "Coauteur·rice · affiliation indiquée dans la publication citée",
+        "role_zh": "共同作者 · 所列论文中的机构归属"
+      },
+      {
+        "name": "Rafael B. W. Evaristo",
+        "role_en": "Coauthor · affiliation reported in the cited publication",
+        "role_pt": "Coautor(a) · afiliação informada na publicação citada",
+        "role_fr": "Coauteur·rice · affiliation indiquée dans la publication citée",
+        "role_zh": "共同作者 · 所列论文中的机构归属"
+      },
+      {
+        "name": "Rômulo C. Dutra",
+        "role_en": "Coauthor · affiliation reported in the cited publication",
+        "role_pt": "Coautor(a) · afiliação informada na publicação citada",
+        "role_fr": "Coauteur·rice · affiliation indiquée dans la publication citée",
+        "role_zh": "共同作者 · 所列论文中的机构归属"
+      },
+      {
+        "name": "Júlia R. Vargas",
+        "role_en": "Coauthor · affiliation reported in the cited publication",
+        "role_pt": "Coautor(a) · afiliação informada na publicação citada",
+        "role_fr": "Coauteur·rice · affiliation indiquée dans la publication citée",
+        "role_zh": "共同作者 · 所列论文中的机构归属"
+      },
+      {
+        "name": "Igor F. Mendonça",
+        "role_en": "Coauthor · affiliation reported in the cited publication",
+        "role_pt": "Coautor(a) · afiliação informada na publicação citada",
+        "role_fr": "Coauteur·rice · affiliation indiquée dans la publication citée",
+        "role_zh": "共同作者 · 所列论文中的机构归属"
+      },
+      {
+        "name": "Gabriel S. do Vale",
+        "role_en": "Coauthor · affiliation reported in the cited publication",
+        "role_pt": "Coautor(a) · afiliação informada na publicação citada",
+        "role_fr": "Coauteur·rice · affiliation indiquée dans la publication citée",
+        "role_zh": "共同作者 · 所列论文中的机构归属"
+      },
+      {
+        "name": "Munique G. Guimarães",
+        "role_en": "Coauthor · affiliation reported in the cited publication",
+        "role_pt": "Coautor(a) · afiliação informada na publicação citada",
+        "role_fr": "Coauteur·rice · affiliation indiquée dans la publication citée",
+        "role_zh": "共同作者 · 所列论文中的机构归属"
+      },
+      {
+        "name": "Amanda F. Reitenbach",
+        "role_en": "Coauthor · affiliation reported in the cited publication",
+        "role_pt": "Coautor(a) · afiliação informada na publicação citada",
+        "role_fr": "Coauteur·rice · affiliation indiquée dans la publication citée",
+        "role_zh": "共同作者 · 所列论文中的机构归属"
+      },
+      {
+        "name": "Nicole P. Catibe",
+        "role_en": "Coauthor · affiliation reported in the cited publication",
+        "role_pt": "Coautor(a) · afiliação informada na publicação citada",
+        "role_fr": "Coauteur·rice · affiliation indiquée dans la publication citée",
+        "role_zh": "共同作者 · 所列论文中的机构归属"
+      },
+      {
+        "name": "Renata P. I. Tormena",
+        "role_en": "Coauthor · affiliation reported in the cited publication",
+        "role_pt": "Coautor(a) · afiliação informada na publicação citada",
+        "role_fr": "Coauteur·rice · affiliation indiquée dans la publication citée",
+        "role_zh": "共同作者 · 所列论文中的机构归属"
+      },
+      {
+        "name": "Diego C. B. dos Santos",
+        "role_en": "Coauthor · affiliation reported in the cited publication",
+        "role_pt": "Coautor(a) · afiliação informada na publicação citada",
+        "role_fr": "Coauteur·rice · affiliation indiquée dans la publication citée",
+        "role_zh": "共同作者 · 所列论文中的机构归属"
+      },
+      {
+        "name": "Talita Souza Carmo",
+        "role_en": "Coauthor · affiliation reported in the cited publication",
+        "role_pt": "Coautor(a) · afiliação informada na publicação citada",
+        "role_fr": "Coauteur·rice · affiliation indiquée dans la publication citée",
+        "role_zh": "共同作者 · 所列论文中的机构归属"
+      },
+      {
+        "name": "Isabella A. Sá",
+        "role_en": "Coauthor · affiliation reported in the cited publication",
+        "role_pt": "Coautor(a) · afiliação informada na publicação citada",
+        "role_fr": "Coauteur·rice · affiliation indiquée dans la publication citée",
+        "role_zh": "共同作者 · 所列论文中的机构归属"
+      },
+      {
+        "name": "Ailton Teixeira Vale",
+        "role_en": "Coauthor · affiliation reported in the cited publication",
+        "role_pt": "Coautor(a) · afiliação informada na publicação citada",
+        "role_fr": "Coauteur·rice · affiliation indiquée dans la publication citée",
+        "role_zh": "共同作者 · 所列论文中的机构归属"
+      },
+      {
+        "name": "Juliana Petrocchi Rodrigues",
+        "role_en": "Coauthor · affiliation reported in the cited publication",
+        "role_pt": "Coautor(a) · afiliação informada na publicação citada",
+        "role_fr": "Coauteur·rice · affiliation indiquée dans la publication citée",
+        "role_zh": "共同作者 · 所列论文中的机构归属"
+      },
+      {
+        "name": "Luciano Cunha",
+        "role_en": "Coauthor · affiliation reported in the cited publication",
+        "role_pt": "Coautor(a) · afiliação informada na publicação citada",
+        "role_fr": "Coauteur·rice · affiliation indiquée dans la publication citée",
+        "role_zh": "共同作者 · 所列论文中的机构归属"
+      },
+      {
+        "name": "Maria dos Reis Santos Borges",
+        "role_en": "Coauthor · affiliation reported in the cited publication",
+        "role_pt": "Coautor(a) · afiliação informada na publicação citada",
+        "role_fr": "Coauteur·rice · affiliation indiquée dans la publication citée",
+        "role_zh": "共同作者 · 所列论文中的机构归属"
+      },
+      {
+        "name": "Tainara da S. Costa",
+        "role_en": "Coauthor · affiliation reported in the cited publication",
+        "role_pt": "Coautor(a) · afiliação informada na publicação citada",
+        "role_fr": "Coauteur·rice · affiliation indiquée dans la publication citée",
+        "role_zh": "共同作者 · 所列论文中的机构归属"
+      }
+    ],
+    "relation_en": "Scientific coauthorship documented in the publications below. Affiliations refer to the articles; current employment and an active institutional partnership are not implied. Markers indicate the city, not an exact campus address.",
+    "relation_pt": "Coautoria científica documentada nas publicações abaixo. As afiliações correspondem aos artigos; não indicam necessariamente vínculo profissional atual ou parceria institucional ativa. O marcador indica a cidade, não o endereço exato do campus.",
+    "relation_fr": "Coautorat scientifique documenté dans les publications ci-dessous. Les affiliations correspondent aux articles, sans présumer un emploi actuel ni un partenariat institutionnel actif. Le repère indique la ville, non une adresse précise de campus.",
+    "relation_zh": "下列论文记录了科学共同署名关系。机构归属以论文为准，并不表示目前的任职或正在进行的机构合作。地图标记表示城市，而非校区的精确地址。",
+    "publications": [
+      {
+        "title": "Numerical modeling and experimental assessment of sustainable woody biomass torrefaction via coupled TG-FTIR",
+        "url": "https://doi.org/10.1016/j.biombioe.2021.105981"
+      },
+      {
+        "title": "Multiparameter optimization of torrefaction for achieving carbon-negative biocoal: integrating quality parameters, thermodynamics, and environmental performance",
+        "url": "https://doi.org/10.1016/j.enconman.2025.120055"
+      },
+      {
+        "title": "Intermittent versus continuous kiln drying of hardwood boards: comparable-stage analysis of energy use, kinetics, quality, and climate impacts",
+        "url": "https://doi.org/10.1016/j.biombioe.2026.109443"
+      },
+      {
+        "title": "Thermo-Acoustic Catalytic Effect on Oxidizing Woody Torrefaction",
+        "url": "https://doi.org/10.3390/pr8111361"
+      },
+      {
+        "title": "Feasibility of hybrid energy systems for environmental remediation: Transforming closed landfills into sustainable energy hubs",
+        "url": "https://doi.org/10.1016/j.cec.2025.100168"
+      },
+      {
+        "title": "Waste-to-energy in the civil-construction sector toward the valuation of wood construction residues: Integration of torrefaction process",
+        "url": "https://doi.org/10.1016/j.fuel.2024.132029"
+      },
+      {
+        "title": "Biofuel from agro-industrial residues as sustainable strategy for CO2 mitigation: Statistical optimization of pequi seeds torrefaction",
+        "url": "https://doi.org/10.1016/j.enconman.2024.118222"
+      },
+      {
+        "title": "Optimizing torrefaction of banana waste (peels and rachis) for sustainable biocoal production in rural communities",
+        "url": "https://doi.org/10.1016/j.biombioe.2025.107726"
+      },
+      {
+        "title": "Torrefaction of Sericulture Agro-Industrial Waste for Sustainable Waste-to-Resource Solutions",
+        "url": "https://doi.org/10.1021/acsomega.5c02508"
+      },
+      {
+        "title": "Optimizing the Flavor Profile of Brazilian Spirits: Torrefaction Modeling of Native Woods for Cachaça Maturation",
+        "url": "https://doi.org/10.3390/molecules31040633"
+      },
+      {
+        "title": "Evaluating the quality of wood waste pellets and environmental impact mitigation for decentralized energy recovery in the Amazon",
+        "url": "https://doi.org/10.1016/j.renene.2024.120929"
+      },
+      {
+        "title": "Multiparameter-analysis of CO2/Steam-enhanced gasification and pyrolysis for syngas and biochar production from low-cost feedstock",
+        "url": "https://doi.org/10.1016/j.ecmx.2021.100138"
+      },
+      {
+        "title": "Towards a sustainable waste-to-energy pathway to pequi biomass residues: Biochar, syngas, and biodiesel analysis",
+        "url": "https://doi.org/10.1016/j.wasman.2022.02.022"
+      },
+      {
+        "title": "Energy-environmental nexus in green hydrogen-assisted conversion of second-crop canola to sustainable aviation fuel: Toward low-carbon bioenergy systems",
+        "url": "https://doi.org/10.1016/j.biombioe.2026.109149"
+      },
+      {
+        "title": "Exergy loss and optimization in Brazilian urban wastewater treatment: A study of the urban water-exergy-environment nexus",
+        "url": "https://doi.org/10.1016/j.jclepro.2025.146057"
+      }
+    ]
+  },
+  {
+    "id": "br-lpf-coauthors",
+    "public": true,
+    "country": "BRA",
+    "city": "Brasília",
+    "lat": -15.78,
+    "lon": -47.93,
+    "institution": "Laboratório de Produtos Florestais (LPF / Serviço Florestal Brasileiro)",
+    "institution_en": "Laboratório de Produtos Florestais (LPF / Serviço Florestal Brasileiro)",
+    "institution_fr": "Laboratório de Produtos Florestais (LPF / Serviço Florestal Brasileiro)",
+    "institution_zh": "Laboratório de Produtos Florestais (LPF / Serviço Florestal Brasileiro)",
+    "scope": "research",
+    "status": "documented",
+    "people": [
+      {
+        "name": "Lucélia Alves de Macedo",
+        "role_en": "Coauthor · affiliation reported in the cited publication",
+        "role_pt": "Coautor(a) · afiliação informada na publicação citada",
+        "role_fr": "Coauteur·rice · affiliation indiquée dans la publication citée",
+        "role_zh": "共同作者 · 所列论文中的机构归属"
+      },
+      {
+        "name": "Luiz Gustavo Oliveira Galvão",
+        "role_en": "Coauthor · affiliation reported in the cited publication",
+        "role_pt": "Coautor(a) · afiliação informada na publicação citada",
+        "role_fr": "Coauteur·rice · affiliation indiquée dans la publication citée",
+        "role_zh": "共同作者 · 所列论文中的机构归属"
+      },
+      {
+        "name": "Bruno Sant’Anna Chaves",
+        "role_en": "Coauthor · affiliation reported in the cited publication",
+        "role_pt": "Coautor(a) · afiliação informada na publicação citada",
+        "role_fr": "Coauteur·rice · affiliation indiquée dans la publication citée",
+        "role_zh": "共同作者 · 所列论文中的机构归属"
+      },
+      {
+        "name": "Juliana Sabino Rodrigues",
+        "role_en": "Coauthor · affiliation reported in the cited publication",
+        "role_pt": "Coautor(a) · afiliação informada na publicação citada",
+        "role_fr": "Coauteur·rice · affiliation indiquée dans la publication citée",
+        "role_zh": "共同作者 · 所列论文中的机构归属"
+      },
+      {
+        "name": "Lúcia Fernanda Alves Garcia",
+        "role_en": "Coauthor · affiliation reported in the cited publication",
+        "role_pt": "Coautor(a) · afiliação informada na publicação citada",
+        "role_fr": "Coauteur·rice · affiliation indiquée dans la publication citée",
+        "role_zh": "共同作者 · 所列论文中的机构归属"
+      }
+    ],
+    "relation_en": "Scientific coauthorship documented in the publications below. Affiliations refer to the articles; current employment and an active institutional partnership are not implied. Markers indicate the city, not an exact campus address.",
+    "relation_pt": "Coautoria científica documentada nas publicações abaixo. As afiliações correspondem aos artigos; não indicam necessariamente vínculo profissional atual ou parceria institucional ativa. O marcador indica a cidade, não o endereço exato do campus.",
+    "relation_fr": "Coautorat scientifique documenté dans les publications ci-dessous. Les affiliations correspondent aux articles, sans présumer un emploi actuel ni un partenariat institutionnel actif. Le repère indique la ville, non une adresse précise de campus.",
+    "relation_zh": "下列论文记录了科学共同署名关系。机构归属以论文为准，并不表示目前的任职或正在进行的机构合作。地图标记表示城市，而非校区的精确地址。",
+    "publications": [
+      {
+        "title": "A potassium responsive numerical path to model catalytic torrefaction kinetics",
+        "url": "https://doi.org/10.1016/j.energy.2021.122208"
+      },
+      {
+        "title": "Waste-to-energy in the civil-construction sector toward the valuation of wood construction residues: Integration of torrefaction process",
+        "url": "https://doi.org/10.1016/j.fuel.2024.132029"
+      },
+      {
+        "title": "Assessment of wood residue blends from the amazon region for decentralized energy recovery and decarbonization: Combustion kinetics, thermodynamics and potential emissions",
+        "url": "https://doi.org/10.1016/j.biombioe.2025.107827"
+      }
+    ]
+  },
+  {
+    "id": "br-ufla",
+    "public": true,
+    "country": "BRA",
+    "city": "Lavras",
+    "lat": -21.25,
+    "lon": -45.0,
+    "institution": "Universidade Federal de Lavras (UFLA)",
+    "institution_en": "Universidade Federal de Lavras (UFLA)",
+    "institution_fr": "Universidade Federal de Lavras (UFLA)",
+    "institution_zh": "Universidade Federal de Lavras (UFLA)",
+    "scope": "research",
+    "status": "documented",
+    "people": [
+      {
+        "name": "Thiago de Paula Protásio",
+        "role_en": "Coauthor · affiliation reported in the cited publication",
+        "role_pt": "Coautor(a) · afiliação informada na publicação citada",
+        "role_fr": "Coauteur·rice · affiliation indiquée dans la publication citée",
+        "role_zh": "共同作者 · 所列论文中的机构归属"
+      },
+      {
+        "name": "Paulo Fernando Trugilho",
+        "role_en": "Coauthor · affiliation reported in the cited publication",
+        "role_pt": "Coautor(a) · afiliação informada na publicação citada",
+        "role_fr": "Coauteur·rice · affiliation indiquée dans la publication citée",
+        "role_zh": "共同作者 · 所列论文中的机构归属"
+      },
+      {
+        "name": "Nayara Tamires da Silva Carvalho",
+        "role_en": "Coauthor · affiliation reported in the cited publication",
+        "role_pt": "Coautor(a) · afiliação informada na publicação citada",
+        "role_fr": "Coauteur·rice · affiliation indiquée dans la publication citée",
+        "role_zh": "共同作者 · 所列论文中的机构归属"
+      },
+      {
+        "name": "Michael Douglas Roque Lima",
+        "role_en": "Coauthor · affiliation reported in the cited publication",
+        "role_pt": "Coautor(a) · afiliação informada na publicação citada",
+        "role_fr": "Coauteur·rice · affiliation indiquée dans la publication citée",
+        "role_zh": "共同作者 · 所列论文中的机构归属"
+      },
+      {
+        "name": "Elvis Vieira dos Santos",
+        "role_en": "Coauthor · affiliation reported in the cited publication",
+        "role_pt": "Coautor(a) · afiliação informada na publicação citada",
+        "role_fr": "Coauteur·rice · affiliation indiquée dans la publication citée",
+        "role_zh": "共同作者 · 所列论文中的机构归属"
+      },
+      {
+        "name": "Patrícia Leonídia dos Santos",
+        "role_en": "Coauthor · affiliation reported in the cited publication",
+        "role_pt": "Coautor(a) · afiliação informada na publicação citada",
+        "role_fr": "Coauteur·rice · affiliation indiquée dans la publication citée",
+        "role_zh": "共同作者 · 所列论文中的机构归属"
+      },
+      {
+        "name": "Paulo Ricardo Gherardi Hein",
+        "role_en": "Coauthor · affiliation reported in the cited publication",
+        "role_pt": "Coautor(a) · afiliação informada na publicação citada",
+        "role_fr": "Coauteur·rice · affiliation indiquée dans la publication citée",
+        "role_zh": "共同作者 · 所列论文中的机构归属"
+      },
+      {
+        "name": "Alisson Lara de Carvalho",
+        "role_en": "Coauthor · affiliation reported in the cited publication",
+        "role_pt": "Coautor(a) · afiliação informada na publicação citada",
+        "role_fr": "Coauteur·rice · affiliation indiquée dans la publication citée",
+        "role_zh": "共同作者 · 所列论文中的机构归属"
+      },
+      {
+        "name": "Bianca Bueno Rosario",
+        "role_en": "Coauthor · affiliation reported in the cited publication",
+        "role_pt": "Coautor(a) · afiliação informada na publicação citada",
+        "role_fr": "Coauteur·rice · affiliation indiquée dans la publication citée",
+        "role_zh": "共同作者 · 所列论文中的机构归属"
+      },
+      {
+        "name": "Tiago José Pires de Oliveira",
+        "role_en": "Coauthor · affiliation reported in the cited publication",
+        "role_pt": "Coautor(a) · afiliação informada na publicação citada",
+        "role_fr": "Coauteur·rice · affiliation indiquée dans la publication citée",
+        "role_zh": "共同作者 · 所列论文中的机构归属"
+      },
+      {
+        "name": "João Moreira Neto",
+        "role_en": "Coauthor · affiliation reported in the cited publication",
+        "role_pt": "Coautor(a) · afiliação informada na publicação citada",
+        "role_fr": "Coauteur·rice · affiliation indiquée dans la publication citée",
+        "role_zh": "共同作者 · 所列论文中的机构归属"
+      },
+      {
+        "name": "Maria Lúcia Bianchi",
+        "role_en": "Coauthor · affiliation reported in the cited publication",
+        "role_pt": "Coautor(a) · afiliação informada na publicação citada",
+        "role_fr": "Coauteur·rice · affiliation indiquée dans la publication citée",
+        "role_zh": "共同作者 · 所列论文中的机构归属"
+      },
+      {
+        "name": "Sérgio Henrique Godinho Silva",
+        "role_en": "Coauthor · affiliation reported in the cited publication",
+        "role_pt": "Coautor(a) · afiliação informada na publicação citada",
+        "role_fr": "Coauteur·rice · affiliation indiquée dans la publication citée",
+        "role_zh": "共同作者 · 所列论文中的机构归属"
+      },
+      {
+        "name": "Flávio Henrique Silveira Rabêlo",
+        "role_en": "Coauthor · affiliation reported in the cited publication",
+        "role_pt": "Coautor(a) · afiliação informada na publicação citada",
+        "role_fr": "Coauteur·rice · affiliation indiquée dans la publication citée",
+        "role_zh": "共同作者 · 所列论文中的机构归属"
+      }
+    ],
+    "relation_en": "Scientific coauthorship documented in the publications below. Affiliations refer to the articles; current employment and an active institutional partnership are not implied. Markers indicate the city, not an exact campus address.",
+    "relation_pt": "Coautoria científica documentada nas publicações abaixo. As afiliações correspondem aos artigos; não indicam necessariamente vínculo profissional atual ou parceria institucional ativa. O marcador indica a cidade, não o endereço exato do campus.",
+    "relation_fr": "Coautorat scientifique documenté dans les publications ci-dessous. Les affiliations correspondent aux articles, sans présumer un emploi actuel ni un partenariat institutionnel actif. Le repère indique la ville, non une adresse précise de campus.",
+    "relation_zh": "下列论文记录了科学共同署名关系。机构归属以论文为准，并不表示目前的任职或正在进行的机构合作。地图标记表示城市，而非校区的精确地址。",
+    "publications": [
+      {
+        "title": "Hydrotreatment of Eucalyptus sawdust: The influence of process temperature and H2SO4 catalyst on hydrochar quality, combustion behavior and related emissions",
+        "url": "https://doi.org/10.1016/j.fuel.2023.130643"
+      },
+      {
+        "title": "Exploring the effects of slow pyrolysis temperature and species on the quality of charcoal from Amazonian woody wastes",
+        "url": "https://doi.org/10.1016/j.renene.2024.122257"
+      },
+      {
+        "title": "Açaí seed valorization through torrefaction and pyrolysis: Pathways toward high-energy and low-carbon biocoal",
+        "url": "https://doi.org/10.1016/j.biombioe.2026.109192"
+      },
+      {
+        "title": "Structural effects of hydrothermal carbonization on the pyrolytic behavior of Corymbia torelliana via Py-GC/MS",
+        "url": "https://doi.org/10.1016/j.jaap.2026.107896"
+      },
+      {
+        "title": "Effects of Fertilization, Soil Texture, and Forking on the Wood Quality and Yield of Energy Plantations of Tachigali vulgaris in Amazonia",
+        "url": "https://doi.org/10.1007/s12155-025-10828-w"
+      }
+    ]
+  },
+  {
+    "id": "br-ufra-belem",
+    "public": true,
+    "country": "BRA",
+    "city": "Belém",
+    "lat": -1.45,
+    "lon": -48.49,
+    "institution": "Universidade Federal Rural da Amazônia (UFRA) · Belém",
+    "institution_en": "Universidade Federal Rural da Amazônia (UFRA) · Belém",
+    "institution_fr": "Universidade Federal Rural da Amazônia (UFRA) · Belém",
+    "institution_zh": "Universidade Federal Rural da Amazônia (UFRA) · Belém",
+    "scope": "research",
+    "status": "documented",
+    "people": [
+      {
+        "name": "Lina Bufalino",
+        "role_en": "Coauthor · affiliation reported in the cited publication",
+        "role_pt": "Coautor(a) · afiliação informada na publicação citada",
+        "role_fr": "Coauteur·rice · affiliation indiquée dans la publication citée",
+        "role_zh": "共同作者 · 所列论文中的机构归属"
+      },
+      {
+        "name": "Jonathan Dias Marques",
+        "role_en": "Coauthor · affiliation reported in the cited publication",
+        "role_pt": "Coautor(a) · afiliação informada na publicação citada",
+        "role_fr": "Coauteur·rice · affiliation indiquée dans la publication citée",
+        "role_zh": "共同作者 · 所列论文中的机构归属"
+      },
+      {
+        "name": "Denes de Souza Barros",
+        "role_en": "Coauthor · affiliation reported in the cited publication",
+        "role_pt": "Coautor(a) · afiliação informada na publicação citada",
+        "role_fr": "Coauteur·rice · affiliation indiquée dans la publication citée",
+        "role_zh": "共同作者 · 所列论文中的机构归属"
+      },
+      {
+        "name": "Michael Douglas Roque Lima",
+        "role_en": "Coauthor · affiliation reported in the cited publication",
+        "role_pt": "Coautor(a) · afiliação informada na publicação citada",
+        "role_fr": "Coauteur·rice · affiliation indiquée dans la publication citée",
+        "role_zh": "共同作者 · 所列论文中的机构归属"
+      }
+    ],
+    "relation_en": "Scientific coauthorship documented in the publications below. Affiliations refer to the articles; current employment and an active institutional partnership are not implied. Markers indicate the city, not an exact campus address.",
+    "relation_pt": "Coautoria científica documentada nas publicações abaixo. As afiliações correspondem aos artigos; não indicam necessariamente vínculo profissional atual ou parceria institucional ativa. O marcador indica a cidade, não o endereço exato do campus.",
+    "relation_fr": "Coautorat scientifique documenté dans les publications ci-dessous. Les affiliations correspondent aux articles, sans présumer un emploi actuel ni un partenariat institutionnel actif. Le repère indique la ville, non une adresse précise de campus.",
+    "relation_zh": "下列论文记录了科学共同署名关系。机构归属以论文为准，并不表示目前的任职或正在进行的机构合作。地图标记表示城市，而非校区的精确地址。",
+    "publications": [
+      {
+        "title": "Advancing circular economy in Amazonian forest management A comparative study of the effects of wood waste segregation and traditional carbonization on charcoal properties, combustibility, and spontaneous combustion risk",
+        "url": "https://doi.org/10.1016/j.cec.2025.100152"
+      },
+      {
+        "title": "Effects of Fertilization, Soil Texture, and Forking on the Wood Quality and Yield of Energy Plantations of Tachigali vulgaris in Amazonia",
+        "url": "https://doi.org/10.1007/s12155-025-10828-w"
+      }
+    ]
+  },
+  {
+    "id": "br-ufra-parauapebas",
+    "public": true,
+    "country": "BRA",
+    "city": "Parauapebas",
+    "lat": -6.07,
+    "lon": -49.9,
+    "institution": "Universidade Federal Rural da Amazônia (UFRA) · Parauapebas",
+    "institution_en": "Universidade Federal Rural da Amazônia (UFRA) · Parauapebas",
+    "institution_fr": "Universidade Federal Rural da Amazônia (UFRA) · Parauapebas",
+    "institution_zh": "Universidade Federal Rural da Amazônia (UFRA) · Parauapebas",
+    "scope": "research",
+    "status": "documented",
+    "people": [
+      {
+        "name": "Thiago de Paula Protásio",
+        "role_en": "Coauthor · affiliation reported in the cited publication",
+        "role_pt": "Coautor(a) · afiliação informada na publicação citada",
+        "role_fr": "Coauteur·rice · affiliation indiquée dans la publication citée",
+        "role_zh": "共同作者 · 所列论文中的机构归属"
+      }
+    ],
+    "relation_en": "Scientific coauthorship documented in the publications below. Affiliations refer to the articles; current employment and an active institutional partnership are not implied. Markers indicate the city, not an exact campus address.",
+    "relation_pt": "Coautoria científica documentada nas publicações abaixo. As afiliações correspondem aos artigos; não indicam necessariamente vínculo profissional atual ou parceria institucional ativa. O marcador indica a cidade, não o endereço exato do campus.",
+    "relation_fr": "Coautorat scientifique documenté dans les publications ci-dessous. Les affiliations correspondent aux articles, sans présumer un emploi actuel ni un partenariat institutionnel actif. Le repère indique la ville, non une adresse précise de campus.",
+    "relation_zh": "下列论文记录了科学共同署名关系。机构归属以论文为准，并不表示目前的任职或正在进行的机构合作。地图标记表示城市，而非校区的精确地址。",
+    "publications": [
+      {
+        "title": "A hybrid optimization approach towards energy recovery from torrefied waste blends",
+        "url": "https://doi.org/10.1016/j.renene.2023.05.053"
+      },
+      {
+        "title": "Advancing circular economy in Amazonian forest management A comparative study of the effects of wood waste segregation and traditional carbonization on charcoal properties, combustibility, and spontaneous combustion risk",
+        "url": "https://doi.org/10.1016/j.cec.2025.100152"
+      }
+    ]
+  },
+  {
+    "id": "br-uemasul",
+    "public": true,
+    "country": "BRA",
+    "city": "Imperatriz",
+    "lat": -5.53,
+    "lon": -47.48,
+    "institution": "Universidade Estadual da Região Tocantina do Maranhão (UEMASUL)",
+    "institution_en": "Universidade Estadual da Região Tocantina do Maranhão (UEMASUL)",
+    "institution_fr": "Universidade Estadual da Região Tocantina do Maranhão (UEMASUL)",
+    "institution_zh": "Universidade Estadual da Região Tocantina do Maranhão (UEMASUL)",
+    "scope": "research",
+    "status": "documented",
+    "people": [
+      {
+        "name": "Michael Douglas Roque Lima",
+        "role_en": "Coauthor · affiliation reported in the cited publication",
+        "role_pt": "Coautor(a) · afiliação informada na publicação citada",
+        "role_fr": "Coauteur·rice · affiliation indiquée dans la publication citée",
+        "role_zh": "共同作者 · 所列论文中的机构归属"
+      }
+    ],
+    "relation_en": "Scientific coauthorship documented in the publications below. Affiliations refer to the articles; current employment and an active institutional partnership are not implied. Markers indicate the city, not an exact campus address.",
+    "relation_pt": "Coautoria científica documentada nas publicações abaixo. As afiliações correspondem aos artigos; não indicam necessariamente vínculo profissional atual ou parceria institucional ativa. O marcador indica a cidade, não o endereço exato do campus.",
+    "relation_fr": "Coautorat scientifique documenté dans les publications ci-dessous. Les affiliations correspondent aux articles, sans présumer un emploi actuel ni un partenariat institutionnel actif. Le repère indique la ville, non une adresse précise de campus.",
+    "relation_zh": "下列论文记录了科学共同署名关系。机构归属以论文为准，并不表示目前的任职或正在进行的机构合作。地图标记表示城市，而非校区的精确地址。",
+    "publications": [
+      {
+        "title": "Advancing circular economy in Amazonian forest management A comparative study of the effects of wood waste segregation and traditional carbonization on charcoal properties, combustibility, and spontaneous combustion risk",
+        "url": "https://doi.org/10.1016/j.cec.2025.100152"
+      }
+    ]
+  },
+  {
+    "id": "br-embrapa-agroenergia",
+    "public": true,
+    "country": "BRA",
+    "city": "Brasília",
+    "lat": -15.73,
+    "lon": -47.9,
+    "institution": "Embrapa Agroenergia",
+    "institution_en": "Embrapa Agroenergia",
+    "institution_fr": "Embrapa Agroenergia",
+    "institution_zh": "Embrapa Agroenergia",
+    "scope": "research",
+    "status": "documented",
+    "people": [
+      {
+        "name": "Alexandre Nunes Cardoso",
+        "role_en": "Coauthor · affiliation reported in the cited publication",
+        "role_pt": "Coautor(a) · afiliação informada na publicação citada",
+        "role_fr": "Coauteur·rice · affiliation indiquée dans la publication citée",
+        "role_zh": "共同作者 · 所列论文中的机构归属"
+      },
+      {
+        "name": "Bruno Galveas Laviola",
+        "role_en": "Coauthor · affiliation reported in the cited publication",
+        "role_pt": "Coautor(a) · afiliação informada na publicação citada",
+        "role_fr": "Coauteur·rice · affiliation indiquée dans la publication citée",
+        "role_zh": "共同作者 · 所列论文中的机构归属"
+      },
+      {
+        "name": "Priscila Seixas Sabaini",
+        "role_en": "Coauthor · affiliation reported in the cited publication",
+        "role_pt": "Coautor(a) · afiliação informada na publicação citada",
+        "role_fr": "Coauteur·rice · affiliation indiquée dans la publication citée",
+        "role_zh": "共同作者 · 所列论文中的机构归属"
+      }
+    ],
+    "relation_en": "Scientific coauthorship documented in the publications below. Affiliations refer to the articles; current employment and an active institutional partnership are not implied. Markers indicate the city, not an exact campus address.",
+    "relation_pt": "Coautoria científica documentada nas publicações abaixo. As afiliações correspondem aos artigos; não indicam necessariamente vínculo profissional atual ou parceria institucional ativa. O marcador indica a cidade, não o endereço exato do campus.",
+    "relation_fr": "Coautorat scientifique documenté dans les publications ci-dessous. Les affiliations correspondent aux articles, sans présumer un emploi actuel ni un partenariat institutionnel actif. Le repère indique la ville, non une adresse précise de campus.",
+    "relation_zh": "下列论文记录了科学共同署名关系。机构归属以论文为准，并不表示目前的任职或正在进行的机构合作。地图标记表示城市，而非校区的精确地址。",
+    "publications": [
+      {
+        "title": "Energy-environmental nexus in green hydrogen-assisted conversion of second-crop canola to sustainable aviation fuel: Toward low-carbon bioenergy systems",
+        "url": "https://doi.org/10.1016/j.biombioe.2026.109149"
+      }
+    ]
+  },
+  {
+    "id": "br-embrapa-meio-ambiente",
+    "public": true,
+    "country": "BRA",
+    "city": "Jaguariúna",
+    "lat": -22.7,
+    "lon": -46.99,
+    "institution": "Embrapa Meio Ambiente",
+    "institution_en": "Embrapa Meio Ambiente",
+    "institution_fr": "Embrapa Meio Ambiente",
+    "institution_zh": "Embrapa Meio Ambiente",
+    "scope": "research",
+    "status": "documented",
+    "people": [
+      {
+        "name": "Marília Ieda da Silveira Folegatti Matsuura",
+        "role_en": "Coauthor · affiliation reported in the cited publication",
+        "role_pt": "Coautor(a) · afiliação informada na publicação citada",
+        "role_fr": "Coauteur·rice · affiliation indiquée dans la publication citée",
+        "role_zh": "共同作者 · 所列论文中的机构归属"
+      },
+      {
+        "name": "Priscila Seixas Sabaini",
+        "role_en": "Coauthor · affiliation reported in the cited publication",
+        "role_pt": "Coautor(a) · afiliação informada na publicação citada",
+        "role_fr": "Coauteur·rice · affiliation indiquée dans la publication citée",
+        "role_zh": "共同作者 · 所列论文中的机构归属"
+      },
+      {
+        "name": "Giulia Cruz Lamas",
+        "role_en": "Coauthor · affiliation reported in the cited publication",
+        "role_pt": "Coautor(a) · afiliação informada na publicação citada",
+        "role_fr": "Coauteur·rice · affiliation indiquée dans la publication citée",
+        "role_zh": "共同作者 · 所列论文中的机构归属"
+      }
+    ],
+    "relation_en": "Scientific coauthorship documented in the publications below. Affiliations refer to the articles; current employment and an active institutional partnership are not implied. Markers indicate the city, not an exact campus address.",
+    "relation_pt": "Coautoria científica documentada nas publicações abaixo. As afiliações correspondem aos artigos; não indicam necessariamente vínculo profissional atual ou parceria institucional ativa. O marcador indica a cidade, não o endereço exato do campus.",
+    "relation_fr": "Coautorat scientifique documenté dans les publications ci-dessous. Les affiliations correspondent aux articles, sans présumer un emploi actuel ni un partenariat institutionnel actif. Le repère indique la ville, non une adresse précise de campus.",
+    "relation_zh": "下列论文记录了科学共同署名关系。机构归属以论文为准，并不表示目前的任职或正在进行的机构合作。地图标记表示城市，而非校区的精确地址。",
+    "publications": [
+      {
+        "title": "Energy-environmental nexus in green hydrogen-assisted conversion of second-crop canola to sustainable aviation fuel: Toward low-carbon bioenergy systems",
+        "url": "https://doi.org/10.1016/j.biombioe.2026.109149"
+      }
+    ]
+  },
+  {
+    "id": "br-embrapa-amazonia-oriental",
+    "public": true,
+    "country": "BRA",
+    "city": "Belém",
+    "lat": -1.45,
+    "lon": -48.49,
+    "institution": "Embrapa Amazônia Oriental",
+    "institution_en": "Embrapa Amazônia Oriental",
+    "institution_fr": "Embrapa Amazônia Oriental",
+    "institution_zh": "Embrapa Amazônia Oriental",
+    "scope": "research",
+    "status": "documented",
+    "people": [
+      {
+        "name": "Delman de Almeida Gonçalves",
+        "role_en": "Coauthor · affiliation reported in the cited publication",
+        "role_pt": "Coautor(a) · afiliação informada na publicação citada",
+        "role_fr": "Coauteur·rice · affiliation indiquée dans la publication citée",
+        "role_zh": "共同作者 · 所列论文中的机构归属"
+      },
+      {
+        "name": "Arystides Resende Silva",
+        "role_en": "Coauthor · affiliation reported in the cited publication",
+        "role_pt": "Coautor(a) · afiliação informada na publicação citada",
+        "role_fr": "Coauteur·rice · affiliation indiquée dans la publication citée",
+        "role_zh": "共同作者 · 所列论文中的机构归属"
+      }
+    ],
+    "relation_en": "Scientific coauthorship documented in the publications below. Affiliations refer to the articles; current employment and an active institutional partnership are not implied. Markers indicate the city, not an exact campus address.",
+    "relation_pt": "Coautoria científica documentada nas publicações abaixo. As afiliações correspondem aos artigos; não indicam necessariamente vínculo profissional atual ou parceria institucional ativa. O marcador indica a cidade, não o endereço exato do campus.",
+    "relation_fr": "Coautorat scientifique documenté dans les publications ci-dessous. Les affiliations correspondent aux articles, sans présumer un emploi actuel ni un partenariat institutionnel actif. Le repère indique la ville, non une adresse précise de campus.",
+    "relation_zh": "下列论文记录了科学共同署名关系。机构归属以论文为准，并不表示目前的任职或正在进行的机构合作。地图标记表示城市，而非校区的精确地址。",
+    "publications": [
+      {
+        "title": "Effects of Fertilization, Soil Texture, and Forking on the Wood Quality and Yield of Energy Plantations of Tachigali vulgaris in Amazonia",
+        "url": "https://doi.org/10.1007/s12155-025-10828-w"
+      }
+    ]
+  },
+  {
+    "id": "br-ibict",
+    "public": true,
+    "country": "BRA",
+    "city": "Brasília",
+    "lat": -15.78,
+    "lon": -47.93,
+    "institution": "Instituto Brasileiro de Informação em Ciência e Tecnologia (Ibict)",
+    "institution_en": "Instituto Brasileiro de Informação em Ciência e Tecnologia (Ibict)",
+    "institution_fr": "Instituto Brasileiro de Informação em Ciência e Tecnologia (Ibict)",
+    "institution_zh": "Instituto Brasileiro de Informação em Ciência e Tecnologia (Ibict)",
+    "scope": "research",
+    "status": "documented",
+    "people": [
+      {
+        "name": "Thiago O. Rodrigues",
+        "role_en": "Coauthor · affiliation reported in the cited publication",
+        "role_pt": "Coautor(a) · afiliação informada na publicação citada",
+        "role_fr": "Coauteur·rice · affiliation indiquée dans la publication citée",
+        "role_zh": "共同作者 · 所列论文中的机构归属"
+      }
+    ],
+    "relation_en": "Scientific coauthorship documented in the publications below. Affiliations refer to the articles; current employment and an active institutional partnership are not implied. Markers indicate the city, not an exact campus address.",
+    "relation_pt": "Coautoria científica documentada nas publicações abaixo. As afiliações correspondem aos artigos; não indicam necessariamente vínculo profissional atual ou parceria institucional ativa. O marcador indica a cidade, não o endereço exato do campus.",
+    "relation_fr": "Coautorat scientifique documenté dans les publications ci-dessous. Les affiliations correspondent aux articles, sans présumer un emploi actuel ni un partenariat institutionnel actif. Le repère indique la ville, non une adresse précise de campus.",
+    "relation_zh": "下列论文记录了科学共同署名关系。机构归属以论文为准，并不表示目前的任职或正在进行的机构合作。地图标记表示城市，而非校区的精确地址。",
+    "publications": [
+      {
+        "title": "Multiparameter optimization of torrefaction for achieving carbon-negative biocoal: integrating quality parameters, thermodynamics, and environmental performance",
+        "url": "https://doi.org/10.1016/j.enconman.2025.120055"
+      },
+      {
+        "title": "Energy-environmental nexus in green hydrogen-assisted conversion of second-crop canola to sustainable aviation fuel: Toward low-carbon bioenergy systems",
+        "url": "https://doi.org/10.1016/j.biombioe.2026.109149"
+      }
+    ]
+  },
+  {
+    "id": "br-unip",
+    "public": true,
+    "country": "BRA",
+    "city": "Brasília",
+    "lat": -15.78,
+    "lon": -47.93,
+    "institution": "Universidade Paulista (UNIP) · Brasília",
+    "institution_en": "Universidade Paulista (UNIP) · Brasília",
+    "institution_fr": "Universidade Paulista (UNIP) · Brasília",
+    "institution_zh": "Universidade Paulista (UNIP) · Brasília",
+    "scope": "research",
+    "status": "documented",
+    "people": [
+      {
+        "name": "Rosineide Miranda Leão",
+        "role_en": "Coauthor · affiliation reported in the cited publication",
+        "role_pt": "Coautor(a) · afiliação informada na publicação citada",
+        "role_fr": "Coauteur·rice · affiliation indiquée dans la publication citée",
+        "role_zh": "共同作者 · 所列论文中的机构归属"
+      }
+    ],
+    "relation_en": "Scientific coauthorship documented in the publications below. Affiliations refer to the articles; current employment and an active institutional partnership are not implied. Markers indicate the city, not an exact campus address.",
+    "relation_pt": "Coautoria científica documentada nas publicações abaixo. As afiliações correspondem aos artigos; não indicam necessariamente vínculo profissional atual ou parceria institucional ativa. O marcador indica a cidade, não o endereço exato do campus.",
+    "relation_fr": "Coautorat scientifique documenté dans les publications ci-dessous. Les affiliations correspondent aux articles, sans présumer un emploi actuel ni un partenariat institutionnel actif. Le repère indique la ville, non une adresse précise de campus.",
+    "relation_zh": "下列论文记录了科学共同署名关系。机构归属以论文为准，并不表示目前的任职或正在进行的机构合作。地图标记表示城市，而非校区的精确地址。",
+    "publications": [
+      {
+        "title": "Numerical modeling and experimental assessment of sustainable woody biomass torrefaction via coupled TG-FTIR",
+        "url": "https://doi.org/10.1016/j.biombioe.2021.105981"
+      }
+    ]
+  },
+  {
+    "id": "br-ifb",
+    "public": true,
+    "country": "BRA",
+    "city": "Brasília",
+    "lat": -15.78,
+    "lon": -47.93,
+    "institution": "Instituto Federal de Brasília (IFB)",
+    "institution_en": "Instituto Federal de Brasília (IFB)",
+    "institution_fr": "Instituto Federal de Brasília (IFB)",
+    "institution_zh": "Instituto Federal de Brasília (IFB)",
+    "scope": "research",
+    "status": "documented",
+    "people": [
+      {
+        "name": "Jefferson S. de Oliveira",
+        "role_en": "Coauthor · affiliation reported in the cited publication",
+        "role_pt": "Coautor(a) · afiliação informada na publicação citada",
+        "role_fr": "Coauteur·rice · affiliation indiquée dans la publication citée",
+        "role_zh": "共同作者 · 所列论文中的机构归属"
+      }
+    ],
+    "relation_en": "Scientific coauthorship documented in the publications below. Affiliations refer to the articles; current employment and an active institutional partnership are not implied. Markers indicate the city, not an exact campus address.",
+    "relation_pt": "Coautoria científica documentada nas publicações abaixo. As afiliações correspondem aos artigos; não indicam necessariamente vínculo profissional atual ou parceria institucional ativa. O marcador indica a cidade, não o endereço exato do campus.",
+    "relation_fr": "Coautorat scientifique documenté dans les publications ci-dessous. Les affiliations correspondent aux articles, sans présumer un emploi actuel ni un partenariat institutionnel actif. Le repère indique la ville, non une adresse précise de campus.",
+    "relation_zh": "下列论文记录了科学共同署名关系。机构归属以论文为准，并不表示目前的任职或正在进行的机构合作。地图标记表示城市，而非校区的精确地址。",
+    "publications": [
+      {
+        "title": "Torrefaction of Sericulture Agro-Industrial Waste for Sustainable Waste-to-Resource Solutions",
+        "url": "https://doi.org/10.1021/acsomega.5c02508"
+      }
+    ]
+  },
+  {
+    "id": "br-ufpb",
+    "public": true,
+    "country": "BRA",
+    "city": "João Pessoa",
+    "lat": -7.12,
+    "lon": -34.86,
+    "institution": "Universidade Federal da Paraíba (UFPB)",
+    "institution_en": "Universidade Federal da Paraíba (UFPB)",
+    "institution_fr": "Universidade Federal da Paraíba (UFPB)",
+    "institution_zh": "Universidade Federal da Paraíba (UFPB)",
+    "scope": "research",
+    "status": "documented",
+    "people": [
+      {
+        "name": "José Luiz Francisco Alves",
+        "role_en": "Coauthor · affiliation reported in the cited publication",
+        "role_pt": "Coautor(a) · afiliação informada na publicação citada",
+        "role_fr": "Coauteur·rice · affiliation indiquée dans la publication citée",
+        "role_zh": "共同作者 · 所列论文中的机构归属"
+      }
+    ],
+    "relation_en": "Scientific coauthorship documented in the publications below. Affiliations refer to the articles; current employment and an active institutional partnership are not implied. Markers indicate the city, not an exact campus address.",
+    "relation_pt": "Coautoria científica documentada nas publicações abaixo. As afiliações correspondem aos artigos; não indicam necessariamente vínculo profissional atual ou parceria institucional ativa. O marcador indica a cidade, não o endereço exato do campus.",
+    "relation_fr": "Coautorat scientifique documenté dans les publications ci-dessous. Les affiliations correspondent aux articles, sans présumer un emploi actuel ni un partenariat institutionnel actif. Le repère indique la ville, non une adresse précise de campus.",
+    "relation_zh": "下列论文记录了科学共同署名关系。机构归属以论文为准，并不表示目前的任职或正在进行的机构合作。地图标记表示城市，而非校区的精确地址。",
+    "publications": [
+      {
+        "title": "Effect of extractive removal and heating rates on pequi seed torrefaction: A detailed kinetic and predictive study for biofuel production",
+        "url": "https://doi.org/10.1016/j.energy.2025.135521"
+      }
+    ]
+  },
+  {
+    "id": "br-usp-poli",
+    "public": true,
+    "country": "BRA",
+    "city": "São Paulo",
+    "lat": -23.55,
+    "lon": -46.63,
+    "institution": "Universidade de São Paulo (USP) · Escola Politécnica / LaSPE",
+    "institution_en": "Universidade de São Paulo (USP) · Escola Politécnica / LaSPE",
+    "institution_fr": "Universidade de São Paulo (USP) · Escola Politécnica / LaSPE",
+    "institution_zh": "Universidade de São Paulo (USP) · Escola Politécnica / LaSPE",
+    "scope": "research",
+    "status": "documented",
+    "people": [
+      {
+        "name": "Luis Alberto Follegatti-Romero",
+        "role_en": "Coauthor · affiliation reported in the cited publication",
+        "role_pt": "Coautor(a) · afiliação informada na publicação citada",
+        "role_fr": "Coauteur·rice · affiliation indiquée dans la publication citée",
+        "role_zh": "共同作者 · 所列论文中的机构归属"
+      }
+    ],
+    "relation_en": "Scientific coauthorship documented in the publications below. Affiliations refer to the articles; current employment and an active institutional partnership are not implied. Markers indicate the city, not an exact campus address.",
+    "relation_pt": "Coautoria científica documentada nas publicações abaixo. As afiliações correspondem aos artigos; não indicam necessariamente vínculo profissional atual ou parceria institucional ativa. O marcador indica a cidade, não o endereço exato do campus.",
+    "relation_fr": "Coautorat scientifique documenté dans les publications ci-dessous. Les affiliations correspondent aux articles, sans présumer un emploi actuel ni un partenariat institutionnel actif. Le repère indique la ville, non une adresse précise de campus.",
+    "relation_zh": "下列论文记录了科学共同署名关系。机构归属以论文为准，并不表示目前的任职或正在进行的机构合作。地图标记表示城市，而非校区的精确地址。",
+    "publications": [
+      {
+        "title": "Simulation and Thermodynamic Evaluation of Woody Biomass Waste Torrefaction",
+        "url": "https://doi.org/10.1021/acsomega.4c08299"
+      }
+    ]
+  },
+  {
+    "id": "br-uftm",
+    "public": true,
+    "country": "BRA",
+    "city": "Uberaba",
+    "lat": -19.75,
+    "lon": -47.93,
+    "institution": "Universidade Federal do Triângulo Mineiro (UFTM)",
+    "institution_en": "Universidade Federal do Triângulo Mineiro (UFTM)",
+    "institution_fr": "Universidade Federal do Triângulo Mineiro (UFTM)",
+    "institution_zh": "Universidade Federal do Triângulo Mineiro (UFTM)",
+    "scope": "research",
+    "status": "documented",
+    "people": [
+      {
+        "name": "Cássia Regina Cardoso",
+        "role_en": "Coauthor · affiliation reported in the cited publication",
+        "role_pt": "Coautor(a) · afiliação informada na publicação citada",
+        "role_fr": "Coauteur·rice · affiliation indiquée dans la publication citée",
+        "role_zh": "共同作者 · 所列论文中的机构归属"
+      }
+    ],
+    "relation_en": "Scientific coauthorship documented in the publications below. Affiliations refer to the articles; current employment and an active institutional partnership are not implied. Markers indicate the city, not an exact campus address.",
+    "relation_pt": "Coautoria científica documentada nas publicações abaixo. As afiliações correspondem aos artigos; não indicam necessariamente vínculo profissional atual ou parceria institucional ativa. O marcador indica a cidade, não o endereço exato do campus.",
+    "relation_fr": "Coautorat scientifique documenté dans les publications ci-dessous. Les affiliations correspondent aux articles, sans présumer un emploi actuel ni un partenariat institutionnel actif. Le repère indique la ville, non une adresse précise de campus.",
+    "relation_zh": "下列论文记录了科学共同署名关系。机构归属以论文为准，并不表示目前的任职或正在进行的机构合作。地图标记表示城市，而非校区的精确地址。",
+    "publications": [
+      {
+        "title": "Structural effects of hydrothermal carbonization on the pyrolytic behavior of Corymbia torelliana via Py-GC/MS",
+        "url": "https://doi.org/10.1016/j.jaap.2026.107896"
+      }
+    ]
+  },
+  {
+    "id": "br-ufv",
+    "public": true,
+    "country": "BRA",
+    "city": "Viçosa",
+    "lat": -20.75,
+    "lon": -42.88,
+    "institution": "Universidade Federal de Viçosa (UFV)",
+    "institution_en": "Universidade Federal de Viçosa (UFV)",
+    "institution_fr": "Universidade Federal de Viçosa (UFV)",
+    "institution_zh": "Universidade Federal de Viçosa (UFV)",
+    "scope": "research",
+    "status": "documented",
+    "people": [
+      {
+        "name": "Bruna Duque Guirardi",
+        "role_en": "Coauthor · affiliation reported in the cited publication",
+        "role_pt": "Coautor(a) · afiliação informada na publicação citada",
+        "role_fr": "Coauteur·rice · affiliation indiquée dans la publication citée",
+        "role_zh": "共同作者 · 所列论文中的机构归属"
+      },
+      {
+        "name": "Angélica de Cássia Oliveira Carneiro",
+        "role_en": "Coauthor · affiliation reported in the cited publication",
+        "role_pt": "Coautor(a) · afiliação informada na publicação citada",
+        "role_fr": "Coauteur·rice · affiliation indiquée dans la publication citée",
+        "role_zh": "共同作者 · 所列论文中的机构归属"
+      }
+    ],
+    "relation_en": "Scientific coauthorship documented in the publications below. Affiliations refer to the articles; current employment and an active institutional partnership are not implied. Markers indicate the city, not an exact campus address.",
+    "relation_pt": "Coautoria científica documentada nas publicações abaixo. As afiliações correspondem aos artigos; não indicam necessariamente vínculo profissional atual ou parceria institucional ativa. O marcador indica a cidade, não o endereço exato do campus.",
+    "relation_fr": "Coautorat scientifique documenté dans les publications ci-dessous. Les affiliations correspondent aux articles, sans présumer un emploi actuel ni un partenariat institutionnel actif. Le repère indique la ville, non une adresse précise de campus.",
+    "relation_zh": "下列论文记录了科学共同署名关系。机构归属以论文为准，并不表示目前的任职或正在进行的机构合作。地图标记表示城市，而非校区的精确地址。",
+    "publications": [
+      {
+        "title": "Advancing circular economy in Amazonian forest management A comparative study of the effects of wood waste segregation and traditional carbonization on charcoal properties, combustibility, and spontaneous combustion risk",
+        "url": "https://doi.org/10.1016/j.cec.2025.100152"
+      }
+    ]
+  },
+  {
+    "id": "br-ufes",
+    "public": true,
+    "country": "BRA",
+    "city": "Jerônimo Monteiro",
+    "lat": -20.79,
+    "lon": -41.4,
+    "institution": "Universidade Federal do Espírito Santo (UFES)",
+    "institution_en": "Universidade Federal do Espírito Santo (UFES)",
+    "institution_fr": "Universidade Federal do Espírito Santo (UFES)",
+    "institution_zh": "Universidade Federal do Espírito Santo (UFES)",
+    "scope": "research",
+    "status": "documented",
+    "people": [
+      {
+        "name": "Ananias Francisco Dias Junior",
+        "role_en": "Coauthor · affiliation reported in the cited publication",
+        "role_pt": "Coautor(a) · afiliação informada na publicação citada",
+        "role_fr": "Coauteur·rice · affiliation indiquée dans la publication citée",
+        "role_zh": "共同作者 · 所列论文中的机构归属"
+      }
+    ],
+    "relation_en": "Scientific coauthorship documented in the publications below. Affiliations refer to the articles; current employment and an active institutional partnership are not implied. Markers indicate the city, not an exact campus address.",
+    "relation_pt": "Coautoria científica documentada nas publicações abaixo. As afiliações correspondem aos artigos; não indicam necessariamente vínculo profissional atual ou parceria institucional ativa. O marcador indica a cidade, não o endereço exato do campus.",
+    "relation_fr": "Coautorat scientifique documenté dans les publications ci-dessous. Les affiliations correspondent aux articles, sans présumer un emploi actuel ni un partenariat institutionnel actif. Le repère indique la ville, non une adresse précise de campus.",
+    "relation_zh": "下列论文记录了科学共同署名关系。机构归属以论文为准，并不表示目前的任职或正在进行的机构合作。地图标记表示城市，而非校区的精确地址。",
+    "publications": [
+      {
+        "title": "Advancing circular economy in Amazonian forest management A comparative study of the effects of wood waste segregation and traditional carbonization on charcoal properties, combustibility, and spontaneous combustion risk",
+        "url": "https://doi.org/10.1016/j.cec.2025.100152"
+      }
+    ]
+  },
+  {
+    "id": "br-ifg",
+    "public": true,
+    "country": "BRA",
+    "city": "Goiânia",
+    "lat": -16.68,
+    "lon": -49.25,
+    "institution": "Instituto Federal de Goiás (IFG)",
+    "institution_en": "Instituto Federal de Goiás (IFG)",
+    "institution_fr": "Instituto Federal de Goiás (IFG)",
+    "institution_zh": "Instituto Federal de Goiás (IFG)",
+    "scope": "research",
+    "status": "documented",
+    "people": [
+      {
+        "name": "Sérgio Botelho de Oliveira",
+        "role_en": "Coauthor · affiliation reported in the cited publication",
+        "role_pt": "Coautor(a) · afiliação informada na publicação citada",
+        "role_fr": "Coauteur·rice · affiliation indiquée dans la publication citée",
+        "role_zh": "共同作者 · 所列论文中的机构归属"
+      }
+    ],
+    "relation_en": "Scientific coauthorship documented in the publications below. Affiliations refer to the articles; current employment and an active institutional partnership are not implied. Markers indicate the city, not an exact campus address.",
+    "relation_pt": "Coautoria científica documentada nas publicações abaixo. As afiliações correspondem aos artigos; não indicam necessariamente vínculo profissional atual ou parceria institucional ativa. O marcador indica a cidade, não o endereço exato do campus.",
+    "relation_fr": "Coautorat scientifique documenté dans les publications ci-dessous. Les affiliations correspondent aux articles, sans présumer un emploi actuel ni un partenariat institutionnel actif. Le repère indique la ville, non une adresse précise de campus.",
+    "relation_zh": "下列论文记录了科学共同署名关系。机构归属以论文为准，并不表示目前的任职或正在进行的机构合作。地图标记表示城市，而非校区的精确地址。",
+    "publications": [
+      {
+        "title": "Exergy loss and optimization in Brazilian urban wastewater treatment: A study of the urban water-exergy-environment nexus",
+        "url": "https://doi.org/10.1016/j.jclepro.2025.146057"
+      }
+    ]
+  },
+  {
+    "id": "fr-lorraine-coauthors",
+    "public": true,
+    "country": "FRA",
+    "city": "Épinal",
+    "lat": 48.17,
+    "lon": 6.45,
+    "institution": "Université de Lorraine",
+    "institution_en": "Université de Lorraine",
+    "institution_fr": "Université de Lorraine",
+    "institution_zh": "Université de Lorraine",
+    "scope": "research",
+    "status": "documented",
+    "people": [
+      {
+        "name": "Anélie Pétrissans",
+        "role_en": "Coauthor · affiliation reported in the cited publication",
+        "role_pt": "Coautor(a) · afiliação informada na publicação citada",
+        "role_fr": "Coauteur·rice · affiliation indiquée dans la publication citée",
+        "role_zh": "共同作者 · 所列论文中的机构归属"
+      },
+      {
+        "name": "Mathieu Pétrissans",
+        "role_en": "Coauthor · affiliation reported in the cited publication",
+        "role_pt": "Coautor(a) · afiliação informada na publicação citada",
+        "role_fr": "Coauteur·rice · affiliation indiquée dans la publication citée",
+        "role_zh": "共同作者 · 所列论文中的机构归属"
+      },
+      {
+        "name": "Baptiste Colin",
+        "role_en": "Coauthor · affiliation reported in the cited publication",
+        "role_pt": "Coautor(a) · afiliação informada na publicação citada",
+        "role_fr": "Coauteur·rice · affiliation indiquée dans la publication citée",
+        "role_zh": "共同作者 · 所列论文中的机构归属"
+      },
+      {
+        "name": "François Leconte",
+        "role_en": "Coauthor · affiliation reported in the cited publication",
+        "role_pt": "Coautor(a) · afiliação informada na publicação citada",
+        "role_fr": "Coauteur·rice · affiliation indiquée dans la publication citée",
+        "role_zh": "共同作者 · 所列论文中的机构归属"
+      }
+    ],
+    "relation_en": "Scientific coauthorship documented in the publications below. Affiliations refer to the articles; current employment and an active institutional partnership are not implied. Markers indicate the city, not an exact campus address.",
+    "relation_pt": "Coautoria científica documentada nas publicações abaixo. As afiliações correspondem aos artigos; não indicam necessariamente vínculo profissional atual ou parceria institucional ativa. O marcador indica a cidade, não o endereço exato do campus.",
+    "relation_fr": "Coautorat scientifique documenté dans les publications ci-dessous. Les affiliations correspondent aux articles, sans présumer un emploi actuel ni un partenariat institutionnel actif. Le repère indique la ville, non une adresse précise de campus.",
+    "relation_zh": "下列论文记录了科学共同署名关系。机构归属以论文为准，并不表示目前的任职或正在进行的机构合作。地图标记表示城市，而非校区的精确地址。",
+    "publications": [
+      {
+        "title": "Modeling and prediction of devolatilization and elemental composition of wood during mild pyrolysis in a pilot-scale reactor",
+        "url": "https://doi.org/10.1016/j.indcrop.2019.01.065"
+      }
+    ],
+    "territory": "MET"
+  },
+  {
+    "id": "fr-cirad-coauthors",
+    "public": true,
+    "country": "FRA",
+    "city": "Montpellier",
+    "lat": 43.61,
+    "lon": 3.88,
+    "institution": "CIRAD",
+    "institution_en": "CIRAD",
+    "institution_fr": "CIRAD",
+    "institution_zh": "CIRAD",
+    "scope": "research",
+    "status": "documented",
+    "people": [
+      {
+        "name": "Patrick Rousset",
+        "role_en": "Coauthor · affiliation reported in the cited publication",
+        "role_pt": "Coautor(a) · afiliação informada na publicação citada",
+        "role_fr": "Coauteur·rice · affiliation indiquée dans la publication citée",
+        "role_zh": "共同作者 · 所列论文中的机构归属"
+      },
+      {
+        "name": "Kévin Candelier",
+        "role_en": "Coauthor · affiliation reported in the cited publication",
+        "role_pt": "Coautor(a) · afiliação informada na publicação citada",
+        "role_fr": "Coauteur·rice · affiliation indiquée dans la publication citée",
+        "role_zh": "共同作者 · 所列论文中的机构归属"
+      },
+      {
+        "name": "Jean-Michel Commandré",
+        "role_en": "Coauthor · affiliation reported in the cited publication",
+        "role_pt": "Coautor(a) · afiliação informada na publicação citada",
+        "role_fr": "Coauteur·rice · affiliation indiquée dans la publication citée",
+        "role_zh": "共同作者 · 所列论文中的机构归属"
+      }
+    ],
+    "relation_en": "Scientific coauthorship documented in the publications below. Affiliations refer to the articles; current employment and an active institutional partnership are not implied. Markers indicate the city, not an exact campus address. Joint affiliation in the article: BioWooEB, Université de Montpellier and CIRAD.",
+    "relation_pt": "Coautoria científica documentada nas publicações abaixo. As afiliações correspondem aos artigos; não indicam necessariamente vínculo profissional atual ou parceria institucional ativa. O marcador indica a cidade, não o endereço exato do campus. Afiliação conjunta no artigo: BioWooEB, Université de Montpellier e CIRAD.",
+    "relation_fr": "Coautorat scientifique documenté dans les publications ci-dessous. Les affiliations correspondent aux articles, sans présumer un emploi actuel ni un partenariat institutionnel actif. Le repère indique la ville, non une adresse précise de campus. Affiliation conjointe dans l’article : BioWooEB, Université de Montpellier et CIRAD.",
+    "relation_zh": "下列论文记录了科学共同署名关系。机构归属以论文为准，并不表示目前的任职或正在进行的机构合作。地图标记表示城市，而非校区的精确地址。 论文列出的联合机构归属：BioWooEB、Université de Montpellier 和 CIRAD。",
+    "publications": [
+      {
+        "title": "Assessment of catalytic torrefaction promoted by biomass potassium impregnation through performance indexes",
+        "url": "https://doi.org/10.1016/j.fuel.2021.121353"
+      }
+    ],
+    "territory": "MET"
+  },
+  {
+    "id": "pt-ist-idmec",
+    "public": true,
+    "country": "PRT",
+    "city": "Lisboa",
+    "lat": 38.72,
+    "lon": -9.14,
+    "institution": "Universidade de Lisboa · Instituto Superior Técnico / IDMEC",
+    "institution_en": "Universidade de Lisboa · Instituto Superior Técnico / IDMEC",
+    "institution_fr": "Universidade de Lisboa · Instituto Superior Técnico / IDMEC",
+    "institution_zh": "Universidade de Lisboa · Instituto Superior Técnico / IDMEC",
+    "scope": "research",
+    "status": "documented",
+    "people": [
+      {
+        "name": "Ana F. Ferreira",
+        "role_en": "Coauthor · affiliation reported in the cited publication",
+        "role_pt": "Coautor(a) · afiliação informada na publicação citada",
+        "role_fr": "Coauteur·rice · affiliation indiquée dans la publication citée",
+        "role_zh": "共同作者 · 所列论文中的机构归属"
+      },
+      {
+        "name": "Ricardo Ferreira",
+        "role_en": "Coauthor · affiliation reported in the cited publication",
+        "role_pt": "Coautor(a) · afiliação informada na publicação citada",
+        "role_fr": "Coauteur·rice · affiliation indiquée dans la publication citée",
+        "role_zh": "共同作者 · 所列论文中的机构归属"
+      },
+      {
+        "name": "M. Costa",
+        "role_en": "Coauthor · affiliation reported in the cited publication",
+        "role_pt": "Coautor(a) · afiliação informada na publicação citada",
+        "role_fr": "Coauteur·rice · affiliation indiquée dans la publication citée",
+        "role_zh": "共同作者 · 所列论文中的机构归属"
+      }
+    ],
+    "relation_en": "Scientific coauthorship documented in the publications below. Affiliations refer to the articles; current employment and an active institutional partnership are not implied. Markers indicate the city, not an exact campus address.",
+    "relation_pt": "Coautoria científica documentada nas publicações abaixo. As afiliações correspondem aos artigos; não indicam necessariamente vínculo profissional atual ou parceria institucional ativa. O marcador indica a cidade, não o endereço exato do campus.",
+    "relation_fr": "Coautorat scientifique documenté dans les publications ci-dessous. Les affiliations correspondent aux articles, sans présumer un emploi actuel ni un partenariat institutionnel actif. Le repère indique la ville, non une adresse précise de campus.",
+    "relation_zh": "下列论文记录了科学共同署名关系。机构归属以论文为准，并不表示目前的任职或正在进行的机构合作。地图标记表示城市，而非校区的精确地址。",
+    "publications": [
+      {
+        "title": "A critical review of holistic 4E approaches for assessing sustainable aviation fuel pathways: Implications for feedstock, technology, policy and scale-up",
+        "url": "https://doi.org/10.1016/j.rser.2026.117194"
+      },
+      {
+        "title": "Multiparameter-analysis of CO2/Steam-enhanced gasification and pyrolysis for syngas and biochar production from low-cost feedstock",
+        "url": "https://doi.org/10.1016/j.ecmx.2021.100138"
+      }
+    ]
+  },
+  {
+    "id": "tw-ncku",
+    "public": true,
+    "country": "TWN",
+    "city": "Tainan",
+    "lat": 22.99,
+    "lon": 120.21,
+    "institution": "National Cheng Kung University (NCKU)",
+    "institution_en": "National Cheng Kung University (NCKU)",
+    "institution_fr": "National Cheng Kung University (NCKU)",
+    "institution_zh": "National Cheng Kung University (NCKU)",
+    "scope": "research",
+    "status": "documented",
+    "people": [
+      {
+        "name": "Bo-Jhih Lin",
+        "role_en": "Coauthor · affiliation reported in the cited publication",
+        "role_pt": "Coautor(a) · afiliação informada na publicação citada",
+        "role_fr": "Coauteur·rice · affiliation indiquée dans la publication citée",
+        "role_zh": "共同作者 · 所列论文中的机构归属"
+      },
+      {
+        "name": "Wei-Hsin Chen",
+        "role_en": "Coauthor · affiliation reported in the cited publication",
+        "role_pt": "Coautor(a) · afiliação informada na publicação citada",
+        "role_fr": "Coauteur·rice · affiliation indiquée dans la publication citée",
+        "role_zh": "共同作者 · 所列论文中的机构归属"
+      },
+      {
+        "name": "Yu-Ying Lin",
+        "role_en": "Coauthor · affiliation reported in the cited publication",
+        "role_pt": "Coautor(a) · afiliação informada na publicação citada",
+        "role_fr": "Coauteur·rice · affiliation indiquée dans la publication citée",
+        "role_zh": "共同作者 · 所列论文中的机构归属"
+      }
+    ],
+    "relation_en": "Scientific coauthorship documented in the publications below. Affiliations refer to the articles; current employment and an active institutional partnership are not implied. Markers indicate the city, not an exact campus address.",
+    "relation_pt": "Coautoria científica documentada nas publicações abaixo. As afiliações correspondem aos artigos; não indicam necessariamente vínculo profissional atual ou parceria institucional ativa. O marcador indica a cidade, não o endereço exato do campus.",
+    "relation_fr": "Coautorat scientifique documenté dans les publications ci-dessous. Les affiliations correspondent aux articles, sans présumer un emploi actuel ni un partenariat institutionnel actif. Le repère indique la ville, non une adresse précise de campus.",
+    "relation_zh": "下列论文记录了科学共同署名关系。机构归属以论文为准，并不表示目前的任职或正在进行的机构合作。地图标记表示城市，而非校区的精确地址。",
+    "publications": [
+      {
+        "title": "Modeling and prediction of devolatilization and elemental composition of wood during mild pyrolysis in a pilot-scale reactor",
+        "url": "https://doi.org/10.1016/j.indcrop.2019.01.065"
+      }
+    ]
+  },
+  {
+    "id": "fi-lut",
+    "public": true,
+    "country": "FIN",
+    "city": "Lappeenranta",
+    "lat": 61.06,
+    "lon": 28.19,
+    "institution": "LUT · Lappeenranta University of Technology",
+    "institution_en": "LUT · Lappeenranta University of Technology",
+    "institution_fr": "LUT · Lappeenranta University of Technology",
+    "institution_zh": "LUT · Lappeenranta University of Technology",
+    "scope": "research",
+    "status": "documented",
+    "people": [
+      {
+        "name": "Clara Mendoza-Martinez",
+        "role_en": "Coauthor · affiliation reported in the cited publication",
+        "role_pt": "Coautor(a) · afiliação informada na publicação citada",
+        "role_fr": "Coauteur·rice · affiliation indiquée dans la publication citée",
+        "role_zh": "共同作者 · 所列论文中的机构归属"
+      }
+    ],
+    "relation_en": "Scientific coauthorship documented in the publications below. Affiliations refer to the articles; current employment and an active institutional partnership are not implied. Markers indicate the city, not an exact campus address.",
+    "relation_pt": "Coautoria científica documentada nas publicações abaixo. As afiliações correspondem aos artigos; não indicam necessariamente vínculo profissional atual ou parceria institucional ativa. O marcador indica a cidade, não o endereço exato do campus.",
+    "relation_fr": "Coautorat scientifique documenté dans les publications ci-dessous. Les affiliations correspondent aux articles, sans présumer un emploi actuel ni un partenariat institutionnel actif. Le repère indique la ville, non une adresse précise de campus.",
+    "relation_zh": "下列论文记录了科学共同署名关系。机构归属以论文为准，并不表示目前的任职或正在进行的机构合作。地图标记表示城市，而非校区的精确地址。",
+    "publications": [
+      {
+        "title": "Optimizing catalytic hydrothermal carbonization of Eucalyptus grandis sawdust for enhanced biomass energy production: Statistical analysis and insights of sustainable carbon-neutral pathways",
+        "url": "https://doi.org/10.1016/j.energy.2025.134647"
+      }
+    ]
+  },
+  {
+    "id": "fr-brafitec-isat",
+    "public": true,
+    "country": "FRA",
+    "territory": "MET",
+    "city": "Nevers",
+    "lat": 46.99,
+    "lon": 3.16,
+    "institution": "ISAT · Institut Supérieur de l’Automobile et des Transports",
+    "institution_en": "ISAT · Institut Supérieur de l’Automobile et des Transports",
+    "institution_fr": "ISAT · Institut Supérieur de l’Automobile et des Transports",
+    "institution_zh": "ISAT · Institut Supérieur de l’Automobile et des Transports",
+    "scope": "institutional",
+    "institutional_owner": "UnB",
+    "status": "documented",
+    "program": "BRAFITEC",
+    "website": "https://isat.fr/",
+    "relation_en": "Institutional cooperation within the BRAFITEC project on engineering education and green hydrogen. Participants are listed in the 2023 proposal; this does not establish individual scientific coauthorship or current project activity.",
+    "relation_pt": "Cooperação institucional no projeto BRAFITEC de formação em engenharia e hidrogênio verde. Participantes identificados na proposta de 2023; isso não caracteriza coautoria científica individual nem confirma a vigência atual do projeto.",
+    "relation_fr": "Coopération institutionnelle dans le projet BRAFITEC de formation des ingénieurs et d’hydrogène vert. Participants identifiés dans la proposition de 2023 ; cela ne démontre ni un coautorat individuel ni une activité actuelle du projet.",
+    "relation_zh": "围绕工程人才培养与绿色氢能的 BRAFITEC 机构合作。参与者来自 2023 年项目书；这不等于个人科学共同署名，也不确认项目目前仍在进行。",
+    "people": [
+      {
+        "name": "Béatrice Lay",
+        "role_en": "BRAFITEC project participant · 2023 proposal",
+        "role_pt": "Participante do projeto BRAFITEC · proposta de 2023",
+        "role_fr": "Participant au projet BRAFITEC · proposition de 2023",
+        "role_zh": "BRAFITEC 项目参与者 · 2023 年项目书"
+      },
+      {
+        "name": "Nadjiba Mahfoudi",
+        "role_en": "BRAFITEC project participant · 2023 proposal",
+        "role_pt": "Participante do projeto BRAFITEC · proposta de 2023",
+        "role_fr": "Participant au projet BRAFITEC · proposition de 2023",
+        "role_zh": "BRAFITEC 项目参与者 · 2023 年项目书"
+      },
+      {
+        "name": "Tonino Sophy",
+        "role_en": "BRAFITEC project participant · 2023 proposal",
+        "role_pt": "Participante do projeto BRAFITEC · proposta de 2023",
+        "role_fr": "Participant au projet BRAFITEC · proposition de 2023",
+        "role_zh": "BRAFITEC 项目参与者 · 2023 年项目书"
+      },
+      {
+        "name": "Yujun Cao",
+        "role_en": "BRAFITEC project participant · 2023 proposal",
+        "role_pt": "Participante do projeto BRAFITEC · proposta de 2023",
+        "role_fr": "Participant au projet BRAFITEC · proposition de 2023",
+        "role_zh": "BRAFITEC 项目参与者 · 2023 年项目书"
+      },
+      {
+        "name": "El Hassane Aglzim",
+        "role_en": "BRAFITEC project participant · 2023 proposal",
+        "role_pt": "Participante do projeto BRAFITEC · proposta de 2023",
+        "role_fr": "Participant au projet BRAFITEC · proposition de 2023",
+        "role_zh": "BRAFITEC 项目参与者 · 2023 年项目书"
+      }
+    ]
+  },
+  {
+    "id": "fr-brafitec-mines",
+    "public": true,
+    "country": "FRA",
+    "territory": "MET",
+    "city": "Nancy",
+    "lat": 48.69,
+    "lon": 6.18,
+    "institution": "Mines Nancy · Université de Lorraine",
+    "institution_en": "Mines Nancy · Université de Lorraine",
+    "institution_fr": "Mines Nancy · Université de Lorraine",
+    "institution_zh": "Mines Nancy · Université de Lorraine",
+    "scope": "institutional",
+    "institutional_owner": "UnB",
+    "status": "documented",
+    "program": "BRAFITEC",
+    "website": "https://mines-nancy.univ-lorraine.fr/",
+    "relation_en": "Institutional cooperation within the BRAFITEC project on engineering education and green hydrogen. Participants are listed in the 2023 proposal; this does not establish individual scientific coauthorship or current project activity.",
+    "relation_pt": "Cooperação institucional no projeto BRAFITEC de formação em engenharia e hidrogênio verde. Participantes identificados na proposta de 2023; isso não caracteriza coautoria científica individual nem confirma a vigência atual do projeto.",
+    "relation_fr": "Coopération institutionnelle dans le projet BRAFITEC de formation des ingénieurs et d’hydrogène vert. Participants identifiés dans la proposition de 2023 ; cela ne démontre ni un coautorat individuel ni une activité actuelle du projet.",
+    "relation_zh": "围绕工程人才培养与绿色氢能的 BRAFITEC 机构合作。参与者来自 2023 年项目书；这不等于个人科学共同署名，也不确认项目目前仍在进行。",
+    "people": [
+      {
+        "name": "Alexandre Nominé",
+        "role_en": "BRAFITEC project participant · 2023 proposal",
+        "role_pt": "Participante do projeto BRAFITEC · proposta de 2023",
+        "role_fr": "Participant au projet BRAFITEC · proposition de 2023",
+        "role_zh": "BRAFITEC 项目参与者 · 2023 年项目书"
+      },
+      {
+        "name": "Silvère Barrat",
+        "role_en": "BRAFITEC project participant · 2023 proposal",
+        "role_pt": "Participante do projeto BRAFITEC · proposta de 2023",
+        "role_fr": "Participant au projet BRAFITEC · proposition de 2023",
+        "role_zh": "BRAFITEC 项目参与者 · 2023 年项目书"
+      },
+      {
+        "name": "Jean-Pierre Bellot",
+        "role_en": "BRAFITEC project participant · 2023 proposal",
+        "role_pt": "Participante do projeto BRAFITEC · proposta de 2023",
+        "role_fr": "Participant au projet BRAFITEC · proposition de 2023",
+        "role_zh": "BRAFITEC 项目参与者 · 2023 年项目书"
+      }
+    ]
+  },
+  {
+    "id": "fr-brafitec-ensam",
+    "public": true,
+    "country": "FRA",
+    "territory": "MET",
+    "city": "Bordeaux",
+    "lat": 44.84,
+    "lon": -0.58,
+    "institution": "Arts et Métiers / ENSAM",
+    "institution_en": "Arts et Métiers / ENSAM",
+    "institution_fr": "Arts et Métiers / ENSAM",
+    "institution_zh": "Arts et Métiers / ENSAM",
+    "scope": "institutional",
+    "institutional_owner": "UnB",
+    "status": "documented",
+    "program": "BRAFITEC",
+    "website": "https://artsetmetiers.fr/",
+    "relation_en": "Institutional cooperation within the BRAFITEC project on engineering education and green hydrogen. Participants are listed in the 2023 proposal; this does not establish individual scientific coauthorship or current project activity.",
+    "relation_pt": "Cooperação institucional no projeto BRAFITEC de formação em engenharia e hidrogênio verde. Participantes identificados na proposta de 2023; isso não caracteriza coautoria científica individual nem confirma a vigência atual do projeto.",
+    "relation_fr": "Coopération institutionnelle dans le projet BRAFITEC de formation des ingénieurs et d’hydrogène vert. Participants identifiés dans la proposition de 2023 ; cela ne démontre ni un coautorat individuel ni une activité actuelle du projet.",
+    "relation_zh": "围绕工程人才培养与绿色氢能的 BRAFITEC 机构合作。参与者来自 2023 年项目书；这不等于个人科学共同署名，也不确认项目目前仍在进行。",
+    "people": [
+      {
+        "name": "Antonio Rodriguez de Castro",
+        "role_en": "French coordinator · BRAFITEC 2023 proposal",
+        "role_pt": "Coordenador francês · proposta BRAFITEC de 2023",
+        "role_fr": "Coordinateur français · proposition BRAFITEC de 2023",
+        "role_zh": "法方协调人 · BRAFITEC 2023 年项目书"
+      },
+      {
+        "name": "Ricardo Noguera",
+        "role_en": "BRAFITEC project participant · 2023 proposal",
+        "role_pt": "Participante do projeto BRAFITEC · proposta de 2023",
+        "role_fr": "Participant au projet BRAFITEC · proposition de 2023",
+        "role_zh": "BRAFITEC 项目参与者 · 2023 年项目书"
+      },
+      {
+        "name": "Amine Ben Abdelwahed",
+        "role_en": "BRAFITEC project participant · 2023 proposal",
+        "role_pt": "Participante do projeto BRAFITEC · proposta de 2023",
+        "role_fr": "Participant au projet BRAFITEC · proposition de 2023",
+        "role_zh": "BRAFITEC 项目参与者 · 2023 年项目书"
+      },
+      {
+        "name": "Stéphane Chevalier",
+        "role_en": "BRAFITEC project participant · 2023 proposal",
+        "role_pt": "Participante do projeto BRAFITEC · proposta de 2023",
+        "role_fr": "Participant au projet BRAFITEC · proposition de 2023",
+        "role_zh": "BRAFITEC 项目参与者 · 2023 年项目书"
+      }
+    ]
+  },
+  {
+    "id": "br-brafitec-unb",
+    "public": true,
+    "country": "BRA",
+    "city": "Brasília",
+    "lat": -15.78,
+    "lon": -47.93,
+    "institution": "Universidade de Brasília (UnB)",
+    "institution_en": "Universidade de Brasília (UnB)",
+    "institution_fr": "Universidade de Brasília (UnB)",
+    "institution_zh": "Universidade de Brasília (UnB)",
+    "scope": "institutional",
+    "status": "documented",
+    "institutional_owner": "UnB",
+    "program": "BRAFITEC",
+    "people": [],
+    "relation_en": "Institutional participation documented in the 2023 BRAFITEC proposal on engineering education and green hydrogen. This does not by itself establish individual coauthorship or current project activity.",
+    "relation_pt": "Participação institucional documentada na proposta BRAFITEC de 2023 sobre formação em engenharia e hidrogênio verde. Isso não caracteriza, por si só, coautoria individual nem confirma a vigência atual do projeto.",
+    "relation_fr": "Participation institutionnelle documentée dans la proposition BRAFITEC de 2023 sur la formation des ingénieurs et l’hydrogène vert. Cela ne démontre pas à lui seul un coautorat individuel ni une activité actuelle du projet.",
+    "relation_zh": "2023 年 BRAFITEC 工程人才培养与绿色氢能项目书中记录的机构参与。这本身并不表示个人共同署名或项目目前仍在进行。"
+  },
+  {
+    "id": "br-brafitec-unifei",
+    "public": true,
+    "country": "BRA",
+    "city": "Itajubá",
+    "lat": -22.43,
+    "lon": -45.45,
+    "institution": "Universidade Federal de Itajubá (UNIFEI)",
+    "institution_en": "Universidade Federal de Itajubá (UNIFEI)",
+    "institution_fr": "Universidade Federal de Itajubá (UNIFEI)",
+    "institution_zh": "Universidade Federal de Itajubá (UNIFEI)",
+    "scope": "institutional",
+    "status": "documented",
+    "institutional_owner": "UnB",
+    "program": "BRAFITEC",
+    "people": [],
+    "relation_en": "Institutional participation documented in the 2023 BRAFITEC proposal on engineering education and green hydrogen. This does not by itself establish individual coauthorship or current project activity.",
+    "relation_pt": "Participação institucional documentada na proposta BRAFITEC de 2023 sobre formação em engenharia e hidrogênio verde. Isso não caracteriza, por si só, coautoria individual nem confirma a vigência atual do projeto.",
+    "relation_fr": "Participation institutionnelle documentée dans la proposition BRAFITEC de 2023 sur la formation des ingénieurs et l’hydrogène vert. Cela ne démontre pas à lui seul un coautorat individuel ni une activité actuelle du projet.",
+    "relation_zh": "2023 年 BRAFITEC 工程人才培养与绿色氢能项目书中记录的机构参与。这本身并不表示个人共同署名或项目目前仍在进行。"
+  },
+  {
+    "id": "br-brafitec-ufba",
+    "public": true,
+    "country": "BRA",
+    "city": "Salvador",
+    "lat": -12.97,
+    "lon": -38.5,
+    "institution": "Universidade Federal da Bahia (UFBA)",
+    "institution_en": "Universidade Federal da Bahia (UFBA)",
+    "institution_fr": "Universidade Federal da Bahia (UFBA)",
+    "institution_zh": "Universidade Federal da Bahia (UFBA)",
+    "scope": "institutional",
+    "status": "documented",
+    "institutional_owner": "UnB",
+    "program": "BRAFITEC",
+    "people": [],
+    "relation_en": "Institutional participation documented in the 2023 BRAFITEC proposal on engineering education and green hydrogen. This does not by itself establish individual coauthorship or current project activity.",
+    "relation_pt": "Participação institucional documentada na proposta BRAFITEC de 2023 sobre formação em engenharia e hidrogênio verde. Isso não caracteriza, por si só, coautoria individual nem confirma a vigência atual do projeto.",
+    "relation_fr": "Participation institutionnelle documentée dans la proposition BRAFITEC de 2023 sur la formation des ingénieurs et l’hydrogène vert. Cela ne démontre pas à lui seul un coautorat individuel ni une activité actuelle du projet.",
+    "relation_zh": "2023 年 BRAFITEC 工程人才培养与绿色氢能项目书中记录的机构参与。这本身并不表示个人共同署名或项目目前仍在进行。"
+  }
+]

@@ -1,0 +1,23 @@
+name: Problema de navegação
+description: Relatar erro de interface ou funcionamento do site.
+title: "[Site] "
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: "Este relato é público. Não inclua documentos, credenciais ou dados pessoais privados."
+  - type: textarea
+    id: problem
+    attributes:
+      label: O que aconteceu?
+      description: Informe a seção e os passos para reproduzir.
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: Navegador, dispositivo e idioma
+  - type: textarea
+    id: expected
+    attributes:
+      label: Resultado esperado

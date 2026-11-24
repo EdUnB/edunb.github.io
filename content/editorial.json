@@ -1,0 +1,77 @@
+{
+  "items": [
+    {
+      "id": "frontiers-energy",
+      "journal": "Frontiers in Energy Research",
+      "publisher": "Frontiers",
+      "category": "appointment",
+      "role": "review-editor",
+      "url": "https://www.frontiersin.org/journals/energy-research/editors",
+      "approved": true,
+      "status": "documented"
+    },
+    {
+      "id": "bioenergy-research",
+      "journal": "BioEnergy Research",
+      "publisher": "Springer",
+      "category": "appointment",
+      "role": "associate-editor",
+      "url": "https://link.springer.com/journal/12155",
+      "approved": true,
+      "status": "active"
+    },
+    {
+      "id": "ecm",
+      "journal": "Energy Conversion and Management",
+      "publisher": "Elsevier",
+      "category": "reviewing",
+      "role": "peer-reviewer",
+      "url": "https://www.sciencedirect.com/journal/energy-conversion-and-management",
+      "approved": true,
+      "status": "documented",
+      "start": 2022
+    },
+    {
+      "id": "fuel",
+      "journal": "Fuel",
+      "publisher": "Elsevier",
+      "category": "reviewing",
+      "role": "peer-reviewer",
+      "url": "https://www.sciencedirect.com/journal/fuel",
+      "approved": true,
+      "status": "documented",
+      "start": 2023
+    },
+    {
+      "id": "energy",
+      "journal": "Energy",
+      "publisher": "Elsevier",
+      "category": "reviewing",
+      "role": "peer-reviewer",
+      "url": "https://www.sciencedirect.com/journal/energy",
+      "approved": true,
+      "status": "documented"
+    },
+    {
+      "id": "seta",
+      "journal": "Sustainable Energy Technologies and Assessments",
+      "publisher": "Elsevier",
+      "category": "reviewing",
+      "role": "peer-reviewer",
+      "url": "https://www.sciencedirect.com/journal/sustainable-energy-technologies-and-assessments",
+      "approved": true,
+      "status": "documented",
+      "start": 2023
+    },
+    {
+      "id": "processes",
+      "journal": "Processes",
+      "publisher": "MDPI",
+      "category": "reviewing",
+      "role": "peer-reviewer",
+      "url": "https://www.mdpi.com/journal/processes",
+      "approved": true,
+      "status": "documented"
+    }
+  ]
+}

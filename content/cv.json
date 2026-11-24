@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "status": "approved",
+  "sections": [
+    "profile",
+    "education",
+    "research",
+    "publications",
+    "supervision",
+    "editorial",
+    "contact"
+  ],
+  "max_publications": 5,
+  "selected_publications": [
+    {
+      "doi": "10.1016/j.rser.2026.117194"
+    },
+    {
+      "doi": "10.1016/j.enconman.2025.120055"
+    },
+    {
+      "doi": "10.1016/j.energy.2021.122208"
+    },
+    {
+      "doi": "10.1016/j.ijhydene.2023.03.367"
+    },
+    {
+      "doi": "10.1016/j.biombioe.2026.109149"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+name: Correção acadêmica ou tradução
+description: Sugerir correção com fonte pública verificável.
+title: "[Conteúdo] "
+labels: [documentation]
+body:
+  - type: markdown
+    attributes:
+      value: "Não anexe XML do Lattes, manuscritos ou informações de orientações ainda não aprovadas."
+  - type: textarea
+    id: correction
+    attributes:
+      label: Informação e correção proposta
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: Fonte pública e idioma
+      description: Informe URL institucional, DOI ou referência pública que sustenta a correção.
+    validations:
+      required: true

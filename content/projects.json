@@ -1,0 +1,165 @@
+[
+  {
+    "id": "research-01",
+    "public": true,
+    "featured": true,
+    "symbol": "♧",
+    "status": "research_direction",
+    "label": {
+      "en": "RESEARCH THEME",
+      "pt": "TEMA DE PESQUISA",
+      "fr": "THÈME DE RECHERCHE",
+      "zh": "研究主题"
+    },
+    "title": {
+      "en": "Forest and urban biomass valorization",
+      "pt": "Valorização de biomassa florestal e urbana",
+      "fr": "Valorisation de la biomasse forestière et urbaine",
+      "zh": "林业与城市生物质资源化利用"
+    },
+    "description": {
+      "en": "Thermochemical upgrading and high-value applications for residues from sustainable forest management and urban vegetation.",
+      "pt": "Pré-tratamentos termoquímicos e aplicações de valor agregado para resíduos do manejo florestal sustentável e da arborização urbana.",
+      "fr": "Traitements thermochimiques et applications à haute valeur ajoutée des résidus issus de la gestion forestière durable et de la végétation urbaine.",
+      "zh": "通过热化学处理，为可持续森林管理及城市植被产生的废弃物开发高附加值应用。"
+    },
+    "link": "https://lea.unb.br/arquivos/pessoa/edgar-amaral-silveira",
+    "link_text": {
+      "en": "Explore research",
+      "pt": "Conhecer a pesquisa",
+      "fr": "Explorer les recherches",
+      "zh": "了解研究"
+    },
+    "story": {
+      "diagram": "biomass-conversion",
+      "question": {
+        "en": "How can forest and urban residues be upgraded into higher-value resources?",
+        "pt": "Como transformar resíduos florestais e urbanos em recursos de maior valor agregado?",
+        "fr": "Comment valoriser les résidus forestiers et urbains en ressources à plus forte valeur ajoutée ?",
+        "zh": "如何将林业与城市剩余物转化为更高附加值的资源？"
+      },
+      "focus": {
+        "en": "Thermochemical upgrading of residues from sustainable forest management and urban vegetation, with a focus on higher-value applications.",
+        "pt": "Pré-tratamentos termoquímicos de resíduos do manejo florestal sustentável e da arborização urbana, com foco em aplicações de maior valor agregado.",
+        "fr": "Traitements thermochimiques des résidus de la gestion forestière durable et de la végétation urbaine, axés sur des applications à plus forte valeur ajoutée.",
+        "zh": "通过热化学处理，探索可持续森林管理与城市植被剩余物的高附加值应用。"
+      },
+      "topics": [
+        {
+          "en": "Forest biomass",
+          "pt": "Biomassa florestal",
+          "fr": "Biomasse forestière",
+          "zh": "林业生物质"
+        },
+        {
+          "en": "Urban residues",
+          "pt": "Resíduos urbanos",
+          "fr": "Résidus urbains",
+          "zh": "城市剩余物"
+        },
+        {
+          "en": "Thermochemical conversion",
+          "pt": "Conversão termoquímica",
+          "fr": "Conversion thermochimique",
+          "zh": "热化学转化"
+        }
+      ]
+    }
+  },
+  {
+    "id": "research-02",
+    "public": true,
+    "featured": false,
+    "symbol": "H₂",
+    "status": "research_direction",
+    "label": {
+      "en": "RESEARCH THEME",
+      "pt": "TEMA DE PESQUISA",
+      "fr": "THÈME DE RECHERCHE",
+      "zh": "研究主题"
+    },
+    "title": {
+      "en": "Waste-to-energy and hydrogen",
+      "pt": "Energia e hidrogênio a partir de resíduos",
+      "fr": "Valorisation énergétique des déchets et hydrogène",
+      "zh": "废弃物能源化与制氢"
+    },
+    "description": {
+      "en": "Integrated gasification and energy-system concepts for hydrogen-rich gas, fuel pathways and urban residual streams.",
+      "pt": "Conceitos integrados de gaseificação e sistemas energéticos para gases ricos em hidrogênio, combustíveis e fluxos residuais urbanos.",
+      "fr": "Concepts intégrés de gazéification et de systèmes énergétiques pour les gaz riches en hydrogène, les filières de carburants et les flux résiduels urbains.",
+      "zh": "研究集成气化与能源系统，面向富氢气体、燃料生产路径和城市残余物流。"
+    },
+    "link": "https://doi.org/10.1016/j.clce.2022.100082",
+    "link_text": {
+      "en": "Related publication",
+      "pt": "Publicação relacionada",
+      "fr": "Publication associée",
+      "zh": "相关论文"
+    }
+  },
+  {
+    "id": "research-03",
+    "public": true,
+    "featured": false,
+    "symbol": "∑",
+    "status": "research_direction",
+    "label": {
+      "en": "RESEARCH THEME",
+      "pt": "TEMA DE PESQUISA",
+      "fr": "THÈME DE RECHERCHE",
+      "zh": "研究主题"
+    },
+    "title": {
+      "en": "Energy, exergy and life-cycle integration",
+      "pt": "Integração energética, exergética e ambiental",
+      "fr": "Intégration de l’énergie, de l’exergie et du cycle de vie",
+      "zh": "能源、㶲与生命周期的集成分析"
+    },
+    "description": {
+      "en": "Comparing technical and environmental trade-offs through traceable indicators, scenarios and multicriteria reasoning.",
+      "pt": "Comparação de compromissos técnicos e ambientais por indicadores rastreáveis, cenários e análises multicritério.",
+      "fr": "Comparer les compromis techniques et environnementaux au moyen d’indicateurs traçables, de scénarios et d’analyses multicritères.",
+      "zh": "通过可追溯指标、情景分析与多准则方法，比较技术与环境方面的权衡。"
+    },
+    "link": "https://doi.org/10.1016/j.sftr.2022.100083",
+    "link_text": {
+      "en": "Related publication",
+      "pt": "Publicação relacionada",
+      "fr": "Publication associée",
+      "zh": "相关论文"
+    }
+  },
+  {
+    "id": "research-04",
+    "public": true,
+    "featured": false,
+    "symbol": "⟡",
+    "status": "research_direction",
+    "label": {
+      "en": "EMERGING RESEARCH DIRECTION",
+      "pt": "LINHA DE PESQUISA EM DESENVOLVIMENTO",
+      "fr": "AXE DE RECHERCHE ÉMERGENT",
+      "zh": "新兴研究方向"
+    },
+    "title": {
+      "en": "Physics-informed hybrid digital twins",
+      "pt": "Gêmeos digitais híbridos orientados pela física",
+      "fr": "Jumeaux numériques hybrides intégrant la physique",
+      "zh": "融入物理知识的混合数字孪生"
+    },
+    "description": {
+      "en": "An emerging methodological agenda combining physical laws, experimental validation and data-driven metamodels for energy systems.",
+      "pt": "Agenda metodológica emergente combinando leis físicas, validação experimental e metamodelos baseados em dados para sistemas de energia.",
+      "fr": "Une démarche méthodologique émergente associant lois physiques, validation expérimentale et métamodèles fondés sur les données pour les systèmes énergétiques.",
+      "zh": "面向能源系统，将物理定律、实验验证及数据驱动元模型相结合的新兴方法研究。"
+    },
+    "link": "mailto:edgar.silveira@unb.br?subject=Research%20collaboration%20%E2%80%94%20Digital%20twins",
+    "link_text": {
+      "en": "Discuss this direction",
+      "pt": "Conversar sobre o tema",
+      "fr": "Échanger sur cet axe",
+      "zh": "讨论这一方向"
+    }
+  }
+]
