@@ -1,5 +1,13 @@
 # Histórico de versões
 
+## Publicação autorizada no GitHub Pages (24/11/2026)
+
+- Publicação expressamente autorizada pelo titular em https://edunb.github.io/.
+- Habilitado deploy via variável PAGES_DEPLOY_ENABLED e GitHub Actions, servindo somente dist/.
+- 87 testes e build --check aprovados; HTTP 200 e alternância dos quatro idiomas verificados. Sem PDFs de artigos ou XMLs no envio.
+- Execução inicial: https://github.com/EdUnB/edunb.github.io/actions/runs/45449877328.
+
+
 ## Primeiro envio dos arquivos ao GitHub (24/11/2026)
 
 - Enviados 74 arquivos revisados ao repositório público EdUnB/edunb.github.io, commit inicial `ac86a57`, com identidade noreply. XMLs, arquivos privados e dist/ excluídos.

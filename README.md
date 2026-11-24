@@ -6,7 +6,7 @@ Site acadêmico pessoal de Edgar Amaral Silveira, professor da Universidade de B
 
 Repositório oficial: [EdUnB/edunb.github.io](https://github.com/EdUnB/edunb.github.io).
 
-**O site está fora do ar.** Os 74 arquivos revisados foram enviados em 24/11/2026 e a validação remota passou, com o job de publicação ignorado. A origem do Pages está em GitHub Actions e a variável de autorização de deploy permanece ausente. Houve uma publicação automática inicial pela configuração de branch do GitHub, posteriormente retirada do ar; consulte o CHANGELOG. A entrada definitiva no ar depende de autorização específica.
+**Site publicado:** [https://edunb.github.io/](https://edunb.github.io/), com autorização explícita do titular em 24/11/2026. GitHub Pages utiliza GitHub Actions e publica exclusivamente `dist/`. A variável `PAGES_DEPLOY_ENABLED=true` habilita o deploy; novos envios que publiquem alterações continuam sujeitos à aprovação do titular.
 
 Conteúdo local: 50 artigos; 27 orientações de pós-graduação (13 concluídas, 14 em andamento); 30 de graduação concluídas (12 iniciações científicas e 18 projetos finais); 33 registros de vínculos acadêmicos, institucionais e coautorias documentadas; quatro temas de pesquisa; sete registros editoriais/de revisão. Não confundir temas de pesquisa com projetos formais ou coautorias com parcerias ativas. Os trabalhos de graduação em andamento permanecem reservados fora do repositório.
 
