@@ -1,5 +1,14 @@
 # Histórico de versões
 
+## Primeiro envio dos arquivos ao GitHub (24/11/2026)
+
+- Enviados 74 arquivos revisados ao repositório público EdUnB/edunb.github.io, commit inicial `ac86a57`, com identidade noreply. XMLs, arquivos privados e dist/ excluídos.
+- CI remoto aprovado: [execução inicial](https://github.com/EdUnB/edunb.github.io/actions/runs/45446783226), validação/build concluídos e job Publish to GitHub Pages ignorado. Validação local: 87 testes e build --check aprovados.
+- Incidente: o GitHub ativou o fluxo nativo pages-build-deployment a partir da raiz de main, independentemente da trava do workflow do projeto. A publicação terminou antes do cancelamento. O site foi imediatamente retirado do ar por Unpublish site; a origem foi alterada para GitHub Actions. Verificação posterior do endereço público retornou HTTP 404.
+- A variável PAGES_DEPLOY_ENABLED permanece ausente e não houve autorização para publicação definitiva. Dependabot abriu propostas de atualização, sem merge automático.
+- Nenhuma alteração na interface ou nos catálogos acadêmicos nesta etapa.
+
+
 ## Preparação organizada do GitHub (24/11/2026)
 
 - Criado repositório remoto público vazio EdUnB/edunb.github.io e configurados squash merge, organização da documentação e permissões restritas de Actions. Pages desativado; nenhum arquivo enviado.

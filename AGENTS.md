@@ -18,3 +18,5 @@
 - Use Git para versionamento e GitHub Pages com GitHub Actions para hospedagem gratuita. Peça aprovação do titular antes de alterações fora do escopo autorizado e antes de configurar o repositório, fazer merge em `main`, enviar alterações que disparem deploy ou publicar. Distinga o estado local, o remoto e o site publicado em cada entrega.
 
 - Repositório oficial: `EdUnB/edunb.github.io`. Publicação permanece bloqueada enquanto `PAGES_DEPLOY_ENABLED` estiver ausente ou diferente de `true`; não ativar a variável nem GitHub Pages sem autorização específica. O primeiro envio público também exige revisão dos arquivos e aprovação, mesmo com deploy bloqueado. Preserve a distinção entre a configuração remota vazia, o Git local e o site efetivamente publicado.
+
+- Antes de enviar alterações, confirme que a origem do GitHub Pages permanece em GitHub Actions e que `PAGES_DEPLOY_ENABLED` não está ativada sem autorização. A trava do workflow próprio não impede publicação nativa por branch; no primeiro envio houve publicação temporária, retirada do ar e documentada no CHANGELOG.

@@ -344,3 +344,10 @@ Validação final da preparação: 87 testes aprovados; `scripts/build.py --chec
 ### Primeiro envio autorizado — 24/11/2026
 
 O titular autorizou expressamente o envio dos 74 arquivos revisados ao repositório público, mantendo o site fora do ar. O seletor de arquivos do navegador não concluiu a transferência; confirmou-se que o remoto permanecia sem commits. O titular concluiu autenticação oficial do Git Credential Manager, e a conta EdUnB foi confirmada. Configurada identidade local de commit com endereço noreply derivado do identificador público da conta, sem expor e-mail pessoal. O envio usa Git para preservar integralmente as subpastas e não inclui dist/, XML/ZIP ou relatórios privados. A publicação Pages permanece bloqueada.
+
+
+### Resultado do envio e hospedagem suspensa — 24/11/2026
+
+Primeiro envio concluído no commit `ac86a57982981710be23d3c816517f3fb024c5da`, com 74 arquivos. A execução remota https://github.com/EdUnB/edunb.github.io/actions/runs/45446783226 concluiu validação/build com sucesso e ignorou o job deploy. As declarações anteriores sobre remoto vazio e CI pendente descrevem a fase de preparação.
+
+O GitHub disparou também seu workflow nativo pages-build-deployment para main/(root), apesar de a configuração anterior do repositório vazio mostrar branch None. Esse fluxo publicou temporariamente a raiz antes de poder ser cancelado. Foi executado Unpublish site e a origem de Pages foi alterada para GitHub Actions; HTTP 404 confirmado após a retirada. A trava PAGES_DEPLOY_ENABLED protege somente o workflow próprio, não a publicação nativa por branch. Não há autorização para ativá-la. Antes de novos envios, manter a origem Actions e o deploy bloqueado. Não foram enviados XMLs ou arquivos privados. As propostas Dependabot permanecem sem merge.
